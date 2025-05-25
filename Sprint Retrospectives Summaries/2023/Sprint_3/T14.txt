@@ -7,7 +7,7 @@
 ● Existieron componentes que no funcionaron de la forma predecida, lo cual nos hizo perder recursos económicos y de tiempo.
 ● Faltó comunicarse con ayudante de diseño para mejorar UI/UX.
 
-¿Qué se debe mantener?
+¿Qué se debería mantener?
 ● El uso del espacio de trabajo e implementos del Fablab.
 ● Uso de discord para constante comunicación y orden de las secciones de desarrollo y demás elementos asociados al proyecto.
 ● Mantener el uso de repositorio en GitHub y las branch de desarrollo.

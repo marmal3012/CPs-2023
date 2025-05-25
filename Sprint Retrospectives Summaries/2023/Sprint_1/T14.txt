@@ -9,7 +9,7 @@
 ● Hubo falta de materiales y herramientas durante una parte importante del sprint, se debería haber hecho más por la obtención de estos beneficios (Ej: Acces● Fablab).
 ● Se llamó la atención a dos integrantes por distintas razones. (Falta de tiempo y falta de resultados, respectivamente)
 
-¿Qué se debe mantener?
+¿Qué se debería mantener?
 ● Mantener el uso de repositorios y su constante actualización para cada branch del proyecto.
 ● Mantener el ritmo de trabajo observado alrededor de la última semana en términos del área de hardware.
 ● Mantener la unificación de conocimiento entre los integrantes del equipo, es decir, el que cada integrante mantenga informados a los demás del cómo funcionan los elementos que se tienen en el proyecto (Ej: Hardware, AWS, React, etc).

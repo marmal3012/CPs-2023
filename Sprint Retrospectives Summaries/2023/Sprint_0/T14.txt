@@ -8,6 +8,6 @@
 ● Debimos haber probado el sistema en conjunto a mayor profundidad y en distintas condiciones, dados los problemas de planificación, no pudimos probar el flujo completo del sistema ni planear adecuadamente la presentación para el PMV.
 ● No se realizaron los avisos de término de requisitos de forma correcta, estos no están formalmente documentados y ordenados para revisar nuestro progreso.
 
-¿Qué se debe mantener?
+¿Qué se debería mantener?
 ● Separación entre los trabajos, principalmente, mecanismo y software, el poder trabajar más modularmente permite un avance paralelo de cada sección, por lo que ninguno depende fuertemente del avance de otros.
 ● Tener los códigos respaldados en github correspondiente, realizando una correcta separación entre backend, frontend y sistemas raspberry Pi.
