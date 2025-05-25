@@ -21,7 +21,7 @@
 ● No plantearnos plazos para entregar funcionalidades asignadas, lo que no permitía darnos cuenta cuando algo estaba retrasada.
 ● No comunicarse con potenciales clientes
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Usar github para organizar el proyecto, ya que está integrado directamente con los repositorios y facilita el flujo de trabajo y reporte.
 ● Hacer reuniones diarias, que aseguren una constante comunicación entre los miembros del equipo y detectar problemas.
 ● Estar disponibles para ayudarnos entre nosotros.

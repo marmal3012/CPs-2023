@@ -10,7 +10,7 @@
 ● Los registros de requerimientos y dependencias del proyecto no se registraron en un documento común comprensible e implementable por todos los integrantes hasta el final del sprint.
 ● Faltó un registro escrito de lo conversado en las reuniones diarias para usarlo como retroalimentación para el futuro desarrollo
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Comunicación constante entre todos los miembros del equipo, lo cual permitió conocer el estado actual del proyecto.
 ● Registro de horas de trabajo diarias, lo cual fue muy útil para la estimación.
 ● Coordinación de trabajo y plazos de entrega personales cuando hay demoras en el desarrollo para lograr un avance constante en el proyecto.

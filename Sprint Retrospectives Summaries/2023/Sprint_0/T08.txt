@@ -7,7 +7,7 @@
 ● Puntualidad en reuniones por parte de algunos integrantes, generando demora en algunas ocasiones, las cuales aumentaron las extensiones de algunas reuniones.
 ● Mala utilización de Trello, ya que, si bien se tenían todas las historias con las características de cada una descrita en el backlog, no se manejó una lista de tareas realizadas o el progreso de los criterios de aceptación, generando muchas veces una revisión doble de algunas historias, para saber si se cumplieron los objetivos de cada una.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Nuestra comunicación efectiva, es decir, la buena forma que tenemos de expresar nuestras inquietudes y la buena disposición de parte de todo el equipo para resolverlas.
 ● Nuestra colaboración para poder hacer cambios en el repositorio del proyecto sin incurrir en conflictos de código, con la utilización de múltiples herramientas y canales de comunicación para un correcto desarrollo en equipo.
 ● Continuar con la dinámica del equipo, ya que se tuvo una buena sinergia y organización, con la utilización de herramientas como When2Meet para organizar reuniones específicas, reuniones semanales con el ayudante y la buena comunicación mediante canales como WhatsApp o Discord, para ir comentando cambios, avances o inquietudes que vayan generándose durante el sprint.

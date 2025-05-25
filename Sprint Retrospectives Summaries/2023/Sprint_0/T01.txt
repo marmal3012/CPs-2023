@@ -6,7 +6,7 @@
 ¿Qué salió mal?	
 ● No hubo complicaciones durante el sprint, ya que a pesar de que hubieron algunos imprevistos (contábamos con un servidor para el procesamiento de la IA que perdimos dos días antes de la entrega) con respecto al desarrollo de la HDU se pudieron solucionar a tiempo
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener las reuniones sociales como equipo que además de ayudar a despejarse de las labores universitarias ayuda a mejorar los vínculos entre nosotros y mantener un buen ambiente de trabajo.
 ● Seguir usando un calendario compartido de evaluaciones de otras asignaturas para organizarnos bien.
 ● Seguir usando Trello como forma de ordenar las tareas a realizar como equipo.

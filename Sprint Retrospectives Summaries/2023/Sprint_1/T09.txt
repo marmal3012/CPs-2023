@@ -10,6 +10,6 @@
 ● Costó entrar en ritmo al comienzo del sprint.
 ● No estuvimos atentos a todos los criterios de aceptación en el desarrollo de las historias, y nos guiamos más por la idea general.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● División del trabajo acorde a las habilidades de cada uno de los miembros del equipo.
 ● Mantener la modalidad de dailys y juntas de trabajo colaborativo desde el principio del sprint.

@@ -15,7 +15,7 @@
 ● Hubo una mala concepción de algunas historias de usuario lo cual nos provocó un leve retraso que no consideramos ya que estábamos con el tiempo justo
 ● No se utilizó de la mejor manera el trello, lo cual nos pudo ayudar mejor con la distribución de tareas
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
 ● La distribución en excel de tareas con los tiempos de dedicación en horas por HU.
 ● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.

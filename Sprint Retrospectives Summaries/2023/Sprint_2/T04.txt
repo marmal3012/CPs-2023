@@ -7,7 +7,7 @@
 ● Se subestimó considerablemente la historia 29, lo que supuso un esfuerzo mayor al considerado inicialmente, ya que muy a diferencia de otros modos de juego presentes en el sprint anterior, este necesitaba muchos más detalles técnicos no previstos, para tener un multijugador funcional y persistencia de datos para los jugadores.
 ● Debido a la semana libre, bajó en gran medida el rendimiento del equipo lo que significó que algunas historias se extendieron por más horas de las estimadas.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Se deben mantener las salidas extracurriculares, debido a que han ayudado a aumentar la confianza y moral dentro del equipo y reducir conflictos internos.
 ● Se deben mantener las reuniones diarias y semanales, con el fin de mantener y fortalecer la coordinación y confianza dentro del equipo.
 ● Se debe mantener el compromiso con el proyecto que tiene cada miembro del equipo, que nos permitió realizar todas las historias y criterios comprometidos para el sprint sin las horas extras que esto requería

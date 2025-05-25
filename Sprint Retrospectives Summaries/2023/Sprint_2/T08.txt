@@ -5,5 +5,5 @@
 ¿Qué salió mal?
 ● Dado que el proyecto está experimentando un crecimiento vertiginoso, la integración de las nuevas historias de usuario en desarrollo se ha vuelto más compleja que en el pasado. No obstante, logramos abordar esta situación al realizar integraciones de manera semanal en lugar de esperar hasta la semana previa a la entrega del sprint.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Como siempre seguir manteniendo el respeto presentado por todos los integrantes del grupo, el compromiso y disposición para trabajar cuando es necesario.

@@ -5,5 +5,5 @@
 ● Mal uso del repositorio, muchas ramas eran redundantes y poco explfcitas sobre que se trabajaba en ellas. Un buen punto a seguir podrfa ser la adopci6n de una convenci6n de nombres para las ramas que refleje el trabajo que se realiza en ellas, debido a que el control de versiones y la gesti6n de ramas son esenciales.
 ● Mal uso de commits, cambios muy grandes en commits poco descriptivos. Grandes commits pueden hacer dificil la revision del c6digo y la identificaci6n de d6nde se introdujeron los bugs.● Mala planificaci6n, hubo momentos en los que la diferencia de enfoques produjo retrasos en el progreso del proyecto.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la correcta distribuci6n de tareas: No en un sentido de orden sino seleccionando la persona indicada para cada trabajo segun sus competencias. -Mantener la honestidad y aceptaci6n del feedback por parte del grupo para con las tareas realizadas. - Mantener el ambiente de colaboraci6n y apoyo entre compaiieros: Que cada miembro del equipo se encuentre dispuesto a ayudar a los demas si se presenta una duda sobre aIgo que este conoce.

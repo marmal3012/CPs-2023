@@ -9,7 +9,7 @@
 ● Hubo algunos conflictos en github que hicieron que se perdiera tiempo, por ejemplo, en averiguar cómo hacer “reverts” de forma correcta, o cómo recuperar código que se borró por error.
 ● El testing sobre la base de datos nuevamente comenzó tarde, lo que hizo que muchos problemas aparecieran durante la misma semana de la entrega.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Buena disposición y actitud a la hora de trabajar - todos cumplieron con lo que acordaron, y cuando alguno tenía dificultades, otros lo apoyaron y ayudaron a sacar adelante los objetivos.
 ● Mejor eficacia en lograr los objetivos dentro del tiempo calculado - no se requirió duplicar el tiempo comprometido, como ocurrió en entregas anteriores.
 ● Dedicación más equitativa - no hubo tanta variación en la cantidad de horas que cada uno tuvo que dedicarle al sprint.

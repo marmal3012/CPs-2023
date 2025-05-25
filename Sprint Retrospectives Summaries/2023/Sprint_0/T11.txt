@@ -7,7 +7,7 @@
 ● Hubo una baja organización con quién estaba encargado de la tarea, debido a que como equipo no repartimos de buena forma las responsabilidades de cada integrante.
 ● Hubo pocas opiniones respecto a las tareas, como equipo al trabajar y/o terminar las tareas, encontramos que nos faltó tener una opinión más marcada de qué mejoras se podían hacer/tener claridad de que es lo que nos gustaría realmente
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación, puesto que gracias a ello como equipo hemos logrado avanzar y salir adelante de las tareas.
 ● Mantener las buenas relaciones/compañerismo entre los miembros del equipo, ya que a pesar de no conocernos previamente se dio un ambiente de confianza.
 ● Seguir usando las Branch de git debido a que nos ayudó a controlar las versiones del código y evitar las pérdidas de datos.

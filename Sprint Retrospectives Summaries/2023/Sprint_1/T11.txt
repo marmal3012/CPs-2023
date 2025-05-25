@@ -6,7 +6,7 @@
 ● Hubo poca claridad en los avances de trabajo, como equipo existió una falta de comunicación.
 ● Mal control de versiones, como equipo no controlamos bien las versiones del proyecto en GitHub
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Reuniones constantes, puesto que ello conocemos los avances o en lo que está trabajando cada integrante del grupo.
 ● Mantener la confianza y respeto entre los miembros del equipo.
 ● Mantener la organización jerárquica de las reuniones, debido a que cada integrante debe asumir cierto grado de responsabilidad

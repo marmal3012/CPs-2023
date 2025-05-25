@@ -17,7 +17,7 @@
 ● Git funcionó bien hasta que tuvimos un error de último momento al hacer git pull. Esto debido a que era necesario que todos fuésemos ordenados y precisos al subir nuestros archivos, lo cual nos quitó tiempo de integración.
 ● No actualizar constantemente al cliente de los avances y de cómo funcionaba la realidad virtual. En esta iteración, nuevamente nos faltó más contacto con el cliente, para mostrarle nuestros avances. Se debe mejorar esto.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación y buena química entre el equipo.
 ● La organización entre grupos para el uso del Oculus en caso de necesitarlo, dado que el número de equipos es mayor que la cantidad de sets Oculus presentes y se siguió el procedimiento correcto de préstamo.
 ● El uso de Trello, ya que es una muy buena herramienta para organizar las tareas de desarrollo y criterios de aceptación de los sprints.

@@ -7,6 +7,6 @@
 ¿Qué salió mal?	
 ● No se priorizaron correctamente ciertas tareas, dejando poco tiempo de sobra para juntar las partes
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● División del trabajo acorde a las habilidades de cada uno de los miembros del equipo.
 ● Mantener la modalidad de dailys y juntas de trabajo colaborativo desde el principio del sprint.

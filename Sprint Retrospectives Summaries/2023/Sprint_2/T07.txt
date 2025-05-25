@@ -16,7 +16,7 @@
 ● El momento de la integración, si bien hubo integración de avances en una misma historia, la integración de historias/escenas distintas se realizó a último momento.
 ● Bugs y dificultad, en este sprint encontramos varios bugs y algunas funcionalidades que podrían afectar la experiencia de usuario debido a la dificultad.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación y buena química entre el equipo.
 ● Juntas en casa de uno de los integrantes para avanzar, para este sprint se aumentó las juntas en casa para el desarrollo puesto que han dado buenos resultados en avances.
 ● Uso del Excel de planificación, debido a que fue más cómodo para todos.

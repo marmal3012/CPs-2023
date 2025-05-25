@@ -10,7 +10,7 @@
 ● Los mismos factores externos afectaron la disponibilidad de tiempo del equipo de desarrollo, lo que tuvo un impacto negativo en la calidad de la presentación final. Se enfocó principalmente en demostrar lo planificado para el Sprint, en lugar de considerar el proyecto final para la feria.
 ● Hubo una falta de cohesión entre las diferentes partes del equipo de desarrollo durante el Sprint, lo que resultó en trabajo de última hora realizado apresuradamente y con un resultado final menos pulido.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Continuar utilizando el repositorio de GitHub como plataforma principal para el trabajo colaborativo entre los diferentes desarrolladores.
 ● Mantener el ambiente de trabajo positivo y la comunicación efectiva entre las distintas partes del equipo.
 ● Seguir la práctica de la separación de tareas por área de trabajo o por historia de usuario.

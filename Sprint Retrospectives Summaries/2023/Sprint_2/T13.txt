@@ -13,7 +13,7 @@
 ● Personas no estuvieron presentes en varias reuniones daily, por lo que su avance no se pudo integrar inmediatamente.
 ● Los pendientes del sprint 1 tomaron demasiado tiempo en realizarse, lo que consumió más tiempo y esfuerzo del necesario
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la constancia con las Daily, puesto que gracias a ello se sabe que es lo que está listo, en que se está trabajando o que falta o se necesita ayuda.
 ● Mantener trabajo colaborativo entre los miembros del equipo, ya que, el trabajar en conjunto a otros (no necesariamente en la misma tarea), ayuda y motiva a los mismo integrantes.
 ● Seguir subdividiend● Historias de Usuarios en distintas tareas para hacer menos pesado el trabajo y así distintos integrantes pueden construir una historia pesada de manera más simple.

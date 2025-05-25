@@ -9,7 +9,7 @@
 ● Problemas con la compresión del software en un archivo más ligero. Tuvimos que llevar el computador de escritorio para presentar correctamente.
 ● Falta de repositorio en GitHub, lo que dificulto la interacción de las diversas partes desarrolladas en paralelo.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación, puesto que gracias a ello hemos logrado salir adelante y coordinarnos como equipo.
 ● Mantener la “buena onda” entre los miembros del equipo, ya que a pesar de conocernos por primera vez en la asignatura se da un ambiente de simpatía y cordialidad.
 ● Mantener las reuniones diarias, puesto que ayudan a entender como los integrantes van desarrollando sus partes, además de visualizar el avance de cada uno.

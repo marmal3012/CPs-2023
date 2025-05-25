@@ -9,7 +9,7 @@
 ● Mal uso de commits, cambios muy grandes en commits poco descripvos. Grandes commits pueden hacer dicil la revisión del código y la idenficación de dónde se introdujeron los bugs.
 ● Mala comunicación, durante este sprint acordamos correctamente cuáles serían las historias de usuario en las que trabajaría cada uno, pero debido a que cada uno estaba muy inmerso en su respecva tarea, se llegaron a hacer pequeños cambios de los que los demás no estaban al tanto y que generaban confusiones en cadena.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la correcta distribución de tareas: No en un sendo de orden sino seleccionando la persona indicada para cada trabajo según sus competencias.
 ● Mantener la honesdad y aceptación del feedback por parte del grupo para con las tareas realizadas.
 ● Mantener el ambiente de colaboración y apoyo entre compañeros: Que cada miembro del equipo se encuentre dispuesto a ayudar a los demás si se presenta una duda sobre algo que esté conoce.

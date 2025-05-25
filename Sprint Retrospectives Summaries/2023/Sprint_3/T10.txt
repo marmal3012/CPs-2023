@@ -9,7 +9,7 @@
 ¿Qué salió mal?
 ● Nos quedamos hasta altas horas de la noche cambiando detalles de la aplicación el día anterior al Sprint, lo cual prometimos no volver a hacer.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
 ● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.
 ● Seguir usando nuestras vías de comunicación de manera organizada y ordenada, para encontrar rápidamente la información.

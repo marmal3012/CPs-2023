@@ -14,7 +14,7 @@
 ● La falta de comunicación también llevó a la creación de una funcionalidad que no era coherente con otra desarrollada por otra parte del equipo.
 ● Actualmente, no es posible ejecutar el proyecto de manera nativa en Oculus Quest, lo que representa un desafío significativo para la presentación de avances y realización de pruebas.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Continuar utilizando el repositorio de GitHub como plataforma principal para el trabajo colaborativo entre los diferentes desarrolladores.
 ● Mantener el ambiente de trabajo positivo y la comunicación efectiva entre las distintas partes del equipo.
 ● Seguir la práctica de la separación de tareas por área de trabajo o por historia de usuario.

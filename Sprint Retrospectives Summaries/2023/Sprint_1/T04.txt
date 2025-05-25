@@ -7,7 +7,7 @@
 ● Al reorganizar las historias de usuario luego del feedback entregado por los profesores se añadieron muchos criterios para justificar los puntajes. A la larga esto ocasionó que una historia se sobre extendiese más allá de lo esperado, lo cual se ve reflejado en la tabla de horas dedicadas y también impactó la fluidez de la presentación.
 ● Presentamos problemas de organización con un integrante, ya que una que otra vez no asistía a las reuniones o sus avances demoraron mucho más de lo esperado según la asignación que se le entregaba, causando demora en el trabajo de otros, en el lado positivo ha gestionado bien las redes sociales, logrando llegar a los 400 seguidores en Instagram pero debemos reajustar las tareas que se le asignen en función de lo que este verdaderamente comprometida en realizar.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Se deben mantener las daily meetings, esto nos ha permitido mantener una buena visibilidad de en qué estado se encuentra cada una de las historias de usuario, reducir bloqueos y poder realizar cambios en la priorización de los criterios de aceptación con el fin de encontrar sinergias entre los distintos miembros del equipo y dar prioridad a lo más importante.
 ● La organización por ramas en GitLab para así tener todos los avances ordenados y evaluar cuáles códigos podrían causar conflicto entre ellos.
 ● El compromiso a terminar lo estipulado en el tiempo acordado. Más de una vez acordamos fechas límites que acabaron por no respetarse, al final todo resultó bien pero no deberíamos trabajar así porque es una mala práctica. La comunicación constante para evitar realizar cambios que puedan perjudicar los avances de otros integrantes.

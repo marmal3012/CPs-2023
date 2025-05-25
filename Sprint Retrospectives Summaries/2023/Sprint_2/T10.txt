@@ -12,7 +12,7 @@
 ● Hubo tareas en que se destinó un sólo integrante a realizar sin backup, y cuando ese integrante no daba a basto no tenía reemplazo.
 ● No se logró cumplir todos los criterios de aceptación, ya que hubo algunas tareas que nos demoraron un poco más del tiempo considerado lo cual nos retrasó levemente con solo un criterio de aceptación (HU-19 no se terminó).
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
 ● La distribución en excel de tareas con los tiempos de dedicación en horas por HU.
 ● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.

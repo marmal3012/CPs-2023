@@ -15,7 +15,7 @@
 ● No actualizar o revisar el Trello constantemente, puesto que si bien la información y tareas a realizar se guardaban en Trello, nos servía en un principio y luego no actualizamos las tareas completadas o pendientes.
 ● No actualizar constantemente al cliente de los avances y de cómo funcionaba la realidad virtual, algo de lo que nos dimos cuenta hace poco fue que debimos guiar más en cómo funcionaba la realidad virtual al cliente puesto que no es del área de Informática.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación y buena química entre el equipo.
 ● La organización entre grupos para el uso del Oculus, dado que el número de equipos es mayor que la cantidad de sets Oculus presentes y se siguió el procedimiento correcto de préstamo.
 ● El uso de Trello, ya que es una muy buena herramienta para organizar tanto las tareas de desarrollo como las de comunicación y de participación en el Semillero. Otra idea para el uso de Trello es organizar estas tareas en una pizarra física.

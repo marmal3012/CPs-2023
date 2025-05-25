@@ -7,7 +7,7 @@
 ● Se esperó hasta muy tarde para subir la página web a Azure (el entorno de producción), lo que provocó errores a último momento.
 ● Se subestimó la historia 5, por lo que se tuvo que trabajar más de lo que teníamos en cuenta la última semana para completar la historia.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener el compañerismo y buen trabajo en equipo que hemos tenido, también mantener el buen ambiente que hay para ser honesto y decir cuando alguien ha hecho algo o no, o si alguien tiene un problema con algo y no puede avanzar.
 ● Mantener el trabajo en pareja, ya que se pudo trabajar mejor.
 ● Deberíamos mantener e incentivar el trabajo grupal de manera presencial, para una mayor motivación

@@ -16,7 +16,7 @@
 ● No pedir al ayudante una revisión previa que nos permitiera ver errores de manera más temprana.
 ● En varias ocasiones algunos desarrollos no se realizaron leyendo todos los criterios de aceptación, lo que llevó a marcar como listas ciertas historias que no lo estaban.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Reuniones diarias que permiten saber en qué está cada uno y además permite que los miembros interactúen entre sí comentando sus soluciones, entregando retroalimentación y formas de hacer mejor las cosas o avisando que ya existe código que realiza una tarea muy similar.
 ● En general la comunicación entre compañeros para solicitar ayuda, probar algunas funciones y hacer que el proyecto avance de forma segura.
 ● La efectiva utilización de Github, al asegurarse de tener la rama de desarrollo al día, realizar pull requests frecuentes para las nuevas características y abrir issues asociadas a pull requests al encontrar problemas.

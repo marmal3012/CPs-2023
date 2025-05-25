@@ -13,7 +13,7 @@
 ● Dudas reiteradas respecto a materia debido a falta de atención en clases, distracciones, o inasistencias.
 ● En cuanto a la Scrum Master, faltó planificación con tiempos más definidos para cada actividad. Falta de organización y distribución de tareas homogéneas en torno a los puntos de historia. Esto pudo deberse al desconocimiento de las habilidades y formas de trabajar de cada integrante, y la falta de experiencia en la metodología Scrum.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Debemos mantener la buena comunicación entre nosotros. La confianza que tenemos para comunicar las cosas que nos dificultan, y la buena disposición para ayudar cuando tenemos dominio de un tema o una herramienta.
 ● Mantener la actitud de constante mejora y criticidad con el trabajo personal. Esto nos permitirá seguir mejorando y entregar un trabajo final de calidad.
 ● Mantener la motivación y las ganas de aprender. De esta forma podremos ser constantes en el desempeño grupal.

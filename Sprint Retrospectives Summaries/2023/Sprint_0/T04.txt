@@ -12,7 +12,7 @@
 ● Faltó realizar una revisión de código antes de aprobar los merge requests, para evitar cambios que rompan el código y así evitar tener que regresar a versiones anteriores del código para ver que cambio rompió el código.
 ● Depender de Javier para los rebases y merge de las ramas. Se recomendó al equipo estudiar git durante las vacaciones para que los rebase y merge request sean una tarea de todos, para que así no exista solo un responsable de las múltiples ramas creadas en el proyecto y evitar errores al juntar el código
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación, debido a que así el mismo equipo se impulsa a seguir adelante y resolver los múltiples desafíos que se presenten en el desarrollo de este.
 ● Mantener la “buena onda”. Ayuda a establecer lazos entre los miembros del equipo y que el proyecto se sienta personal en cierto grado.
 ● Seguir usando el Gitlab privado, las pipelines de CI/CD y las copias de seguridad diarias. Para mantener el buen versionamiento del código y la administración de este.

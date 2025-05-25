@@ -7,7 +7,7 @@
 ¿Qué salió mal?
 ● Ningún problema durante el sprint, se aprendió de los errores que se cometieron en las iteraciones anteriores y se lograron corregir esos problemas
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la correcta distribución de tareas: No en un sentido de orden sino seleccionando la persona indicada para cada trabajo según sus competencias.
 ● Mantener la honestidad y aceptación del feedback por parte del grupo para con las tareas realizadas.
 ● Mantener el ambiente de colaboración y apoyo entre compañeros: Que cada miembro del equipo se encuentre dispuesto a ayudar a los demás si se presenta una duda sobre algo que esté conoce

@@ -11,7 +11,7 @@
 ● Se decían los avances en dailys pero no se mostraban visualmente, por lo que había desconección en ciertas áreas.
 ● Utilizar el mismo repo del PMV, para el próximo sprint se creará un nuevo repo, para así separar el pmv de la app en producción.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la constancia con las Daily, puesto que gracias a ello se sabe que es lo que está listo, en que se está trabajandoo que faltao se necesita ayuda.
 ● Mantener trabajo colaborativo entre los miembros del equipo, ya que, el trabajar en conjunto a otros (no necesariamente en la misma tarea), ayuda y motiva a los mismo integrantes.
 ● Seguir subdividiend Historias de Usuarios en distintas tareas para hacer menos pesado el trabajo y así distintos integrantes pueden construir una historia pesada de manera más simple.

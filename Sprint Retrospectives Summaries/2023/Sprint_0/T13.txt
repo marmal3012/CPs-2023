@@ -12,7 +12,7 @@
 ● Hubo muchos retrasos en reuniones, se le llamó la atención al equipo y se comprometieron a ser más responsables y pagar multas si no cumplían.
 ● Hubo problemas al instalar stack en todos los equipos, generando atrasos, se buscó un día general en el que todos tuvieran el proyecto montado para comenzar a desarrollar correctamente.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la comunicación de ideas de manera representativa, Cuando se usaban dibujos o diseños de prototipo se transmitían de mejor manera la perspectiva acerca de la idea que se quería definir.
 ● Mantener la división de tareas usando Trello, ya que con esto cada miembro del equipo toma distintas tareas y se sabe en que se está trabajando y que falta por trabajar.
 ● Mantener reuniones diarias en fechas de desarrollo, ya que con esto cada miembro del equipo informaba sobre en que se está trabajando, si necesita trabajar con alguien más o si necesita ayuda.

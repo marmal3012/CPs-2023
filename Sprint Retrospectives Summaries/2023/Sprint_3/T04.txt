@@ -7,5 +7,5 @@
 ● Debido a los problemas al distribuir los tiempos de las HUs, no tuvimos tiempo de preparar la presentación, lo que significó que tuvimos que presentar dos veces.
 ● Debido a que finalizamos las HUs el día antes de la presentación, no tuvimos tiempo para testear todas las HUs. Lo que provocó que una de estas no funcionara durante la presentación.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Se debe mantener el compromiso con el proyecto que tiene cada miembro del equipo, con el objetivo de realizar una buena presentación durante la feria de software, manteniendo de la gran calidad que ha marcado nuestro grupo y proyecto durante los sprints.

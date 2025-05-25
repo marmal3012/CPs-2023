@@ -12,7 +12,7 @@
 ● Nulo manejo de versiones: No se utilizó ningún repositorio en común para manejar el código, lo que dificulto el traspaso de avances en funcionalidades comunes a lo largo de diferentes hu.
 ● Escasa planificación de contingencias, hubo falta de un plan de contingencia sólido para abordar posibles obstáculos o contratiempos imprevistos que pudieran haber generado dificultades adicionales durante el desarrollo del Sprint.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Las reuniones constantes, para así ir controlando el avance de cada uno de los integrantes.
 ● Mantener la motivación, puesto que gracias a ello hemos logrado salir adelante y coordinarnos como equipo.
 ● Continuar repartiendo de forma equitativa las tareas, ya que gracias a esto logramos cumplir lo que planteamos para el PMV.

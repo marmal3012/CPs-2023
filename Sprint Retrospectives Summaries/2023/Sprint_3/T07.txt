@@ -15,7 +15,7 @@
 ● La integración, si bien hemos mejorado nuestro método de integración, toma tiempo el ser ordenado con los distintos scripts y assets que debemos subir a Git para traspasar al main, como también existen configuraciones que no quedan guardadas.
 ● Incompatibilidad de paquetes, hubo unos efectos visuales (sangre) que no se pudieron incluir en este Sprint debido a errores producidos por tener Ready Player Me y VFX instalados, por lo que tuvimos que desinstalar este último.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener la motivación y confianza entre el equipo.
 ● Juntas en casa de uno de los integrantes para avanzar, para este sprint se continuó con las juntas en casa para el desarrollo puesto que han dado buenos resultados en avances.
 ● Uso del Excel de planificación, debido a que fue más cómodo para todos.

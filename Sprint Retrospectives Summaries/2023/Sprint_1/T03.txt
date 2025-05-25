@@ -11,7 +11,7 @@
 ● Se subestimaron los tiempos de las historias de usuario, por lo que se necesitó mucho más tiempo de lo que estimamos en un inicio.
 ● No hubo tiempo para mejorar estéticamente los modelos implementados en Unity
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Se deberían mantener las constantes reuniones y la responsabilidad de cumplir con los objetivos comprometidos.
 ● Conservar la motivación, ya que gracias a eso se alcanzaron varias metas y se ha logrado trabajar en conjunto de manera eficiente.
 ● Mantener un ambiente de trabajo amigable, ya que mejora la comunicación, reduce el estrés y facilita la resolución de problemas.

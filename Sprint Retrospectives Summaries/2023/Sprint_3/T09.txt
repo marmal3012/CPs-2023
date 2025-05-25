@@ -6,6 +6,6 @@
 ¿Qué salió mal?
 ● No consideramos que hubieron mayores dificultades, ya que aprendimos de las experiencias anteriores y aquellos problemas que tuvimos en sprint previos fueron superados para este último sprint.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● División del trabajo acorde a las habilidades de cada uno de los miembros del equipo.
 ● Mantener la modalidad de dailys y juntas de trabajo colaborativo desde el principio del sprint.

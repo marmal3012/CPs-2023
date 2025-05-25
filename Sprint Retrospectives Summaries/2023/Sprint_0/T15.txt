@@ -9,6 +9,6 @@
 ● No se dió el tiempo suficiente para repasar documentación de las diferentes tecnologías abarcadas así que en ocasión se tuvo que reescribir desde el principio líneas de código previamente hechas. Ya sea porque estuvieran basadas en una versión previa de la tecnología o no se integraban con esta de la manera esperada.
 ● Se subestimó el tiempo necesario para poder investigar, probar e implementar las diferentes historias de usuario escogidas.
 
-¿Que se debería mantener?
+¿Qué se debería mantener?
 ● Mantener el compromiso, puesto que gracias a ello hemos logrado coordinarnos como equipo y avanzar en el desarrollo del proyecto.
 ● Mantener la buena relación entre todos los integrantes del equipo, ya que esto nos ha permitido trabajar en equipo de forma efectiva, ser capaces de pedir ayuda si se considera necesario y avanzar en el desarrollo del proyecto.
