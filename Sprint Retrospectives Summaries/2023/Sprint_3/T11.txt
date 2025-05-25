@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Las reuniones fueron constantes, como equipo hubo responsabilidad al momento de asistir a las reuniones.
+● Se logró un buen trabajo en equipo, cuando alguien necesitaba ayuda, el equipo tuvo la disposición de ayudarlo.
+● Trabajo bajo presión, como equipo tuvimos poco tiempo para trabajar, pero logramos utilizar esa presión para avanzar en el proyecto.
+
+¿Qué salió mal?
+● Mal control de versiones, como equipo no controlamos bien las versiones del proyecto en GitHub teniendo problemas al unir diferentes ramas.
+● Falta de tiempo, como equipo organizamos y repartimos nuestros tiempos de trabajo para el proyecto y otros ramos de la mejor forma posible, pero aún así creemos que nos faltó tiempo para mejorar lo presentado.
+
+¿Que se debería mantener?
+● Reuniones constantes, puesto que ello conocemos los avances o en lo que está trabajando cada integrante del grupo.
+● Mantener la confianza y respeto entre los miembros del equipo.
+● Mantener la organización jerárquica de las reuniones, debido a que cada integrante debe asumir cierto grado de responsabilidad

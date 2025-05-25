@@ -1,0 +1,22 @@
+¿Qué salió bien?
+● Se dividieron de forma correcta las tareas, como equipo dividimos las historias a realizar de modo que cada historia tuviese a 2 integrantes trabajando en ella. Esto resultó en un trabajo excelente de cada uno de los integrantes y que se pudiese abordar todo lo propuesto en el PMV.
+● Buena comunicación entre todos los integrantes del equipo, debido a que se comunicaba el mínimo problema que se presentaba por cada una de las parejas formadas para las historias de usuario, y la grata convivencia que se tenía.
+● Hubo proactividad por parte de los integrantes para conseguir los recursos necesarios para el desarrollo del proyecto, tales como las gafas VR. Esto permitió que el desarrollo no tuviera mayores contratiempos y se pudiera probar de inmediato los proyectos de Realidad Virtual.
+● Buena capacidad de adaptación, como equipo logramos adaptarnos a los cambios y problemas que surgieron a lo largo del sprint, aportando cada uno con soluciones e ideas para sobrellevar todas las dificultades.
+● Cumplimiento de plazos, como equipo logramos cumplir con los plazos establecidos para cada tarea durante el sprint, lo que evidencia una buena gestión del tiempo y un compromiso con los objetivos del proyecto.
+● Resolución de problemas, como equipo se demostraron habilidades sólidas para identificar y resolver problemas durante el Sprint, superando obstáculos y encontrando soluciones efectivas
+
+¿Qué salió mal?	
+● Hubo algunos retrasos debido a problemas con el cliente, esto provocó que el desarrollo tuviese que comenzar posterior a la fecha planificada y que hubiesen algunas reformulaciones del alcance.
+● La documentación del proyecto fue mínima, lo que provocó que algunos miembros no supieran de forma totalmente correcta el funcionamiento de partes del proyecto en las que no trabajaron.
+● Nulo manejo de versiones: No se utilizó ningún repositorio en común para manejar el código, lo que dificulto el traspaso de avances en funcionalidades comunes a lo largo de diferentes hu.
+● Escasa planificación de contingencias, hubo falta de un plan de contingencia sólido para abordar posibles obstáculos o contratiempos imprevistos que pudieran haber generado dificultades adicionales durante el desarrollo del Sprint.
+
+¿Que se debería mantener?
+● Las reuniones constantes, para así ir controlando el avance de cada uno de los integrantes.
+● Mantener la motivación, puesto que gracias a ello hemos logrado salir adelante y coordinarnos como equipo.
+● Continuar repartiendo de forma equitativa las tareas, ya que gracias a esto logramos cumplir lo que planteamos para el PMV.
+● Mantener la “buena onda” entre los miembros del equipo, ya que a pesar de conocernos por primera vez en la asignatura se da un ambiente de simpatía y cordialidad.
+● La adaptabilidad, el equipo pudo enfrentarse ante la reformulación de lo que tenía pensado realizar para el sprint.
+● El compromiso, ya que gracias a que todos colaboraron y cumplieron sus tareas, se lograron satisfacer los requerimientos del sprint.
+● Celebración de logros y reconocimiento, es de gran importancia celebrar los logros alcanzados y reconocer el esfuerzo y la contribución de cada miembro del equipo, para mantener la motivación y el espíritu positivo.

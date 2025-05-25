@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Se logró crear el sistema de preprocesamiento de imágenes para la posterior generación de modelos, esto es un avance tremendo para nuestro proyecto ya que nos permite crear nuevos entornos a partir de imágenes en vez de tener que esculpirlos a mano.
+● Cumplimos con hacer Dailys durante toda la duración del sprint, lo que nos ayudó para saber en que estaba cada uno de los integrantes del equipo para así ayudar a quienes lo necesitaran y tener claro los criterios de aceptación que estaban faltando por completar.
+● Hubo proactividad por parte de los integrantes para conseguir los recursos necesarios para el desarrollo del proyecto, tales como las gafas VR. Esto permitió que el desarrollo no tuviera mayores contratiempos y se pudiera probar de inmediato los proyectos de Realidad Virtual.
+● Se logró desarrollar la parte funcional de todas las historias de usuarios.
+
+¿Qué salió mal?
+● Hubo una mala y tardía integración de las distintas ramas en git con funcionalidades distintas.
+● No se dejó tiempo para el testing, por lo que ocurrieron errores y bugs en las últimas horas.
+● Aunque la mayoría de días hubo reuniones, solo se hablaron de avances individuales.
+● Se subestimaron los tiempos de las historias de usuario, por lo que se necesitó mucho más tiempo de lo que estimamos en un inicio.
+● No hubo tiempo para mejorar estéticamente los modelos implementados en Unity
+
+¿Que se debería mantener?
+● Se deberían mantener las constantes reuniones y la responsabilidad de cumplir con los objetivos comprometidos.
+● Conservar la motivación, ya que gracias a eso se alcanzaron varias metas y se ha logrado trabajar en conjunto de manera eficiente.
+● Mantener un ambiente de trabajo amigable, ya que mejora la comunicación, reduce el estrés y facilita la resolución de problemas.

@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Se logró con éxito la finalización de la mayoría de las metas establecidas para este Sprint, aunque algunas funcionalidades aún requieren mejoras y pulido.
+● Muchas funcionalidades previas fueron mejoradas gracias al trabajo realizado durante este Sprint, lo que incluso resultó en mejoras en el rendimiento.
+● La comunicación entre las diferentes partes del equipo contribuyó a hacer el trabajo más agradable y efectivo, al menos en aquellas ocasiones en las que la comunicación tuvo lugar.
+
+¿Qué salió mal?
+● En busca de opciones más económicas, se descuidó en gran medida el aspecto visual durante la mayor parte del Sprint, lo que resultó en una prisa excesiva durante los últimos días.
+● La adquisición de modelos y assets para el mapa se llevó a cabo en un momento poco oportuno, lo que conllevó la duplicación del trabajo en elementos que ya estaban incluidos en los modelos y activos existentes.
+● Debido a factores externos, se llevaron a cabo menos reuniones de las necesarias, lo que dejó varias tareas y funcionalidades sin discutirse y abordarse en grupo.
+● Los mismos factores externos afectaron la disponibilidad de tiempo del equipo de desarrollo, lo que tuvo un impacto negativo en la calidad de la presentación final. Se enfocó principalmente en demostrar lo planificado para el Sprint, en lugar de considerar el proyecto final para la feria.
+● Hubo una falta de cohesión entre las diferentes partes del equipo de desarrollo durante el Sprint, lo que resultó en trabajo de última hora realizado apresuradamente y con un resultado final menos pulido.
+
+¿Que se debería mantener?
+● Continuar utilizando el repositorio de GitHub como plataforma principal para el trabajo colaborativo entre los diferentes desarrolladores.
+● Mantener el ambiente de trabajo positivo y la comunicación efectiva entre las distintas partes del equipo.
+● Seguir la práctica de la separación de tareas por área de trabajo o por historia de usuario.
+● Perseverar en el compromiso con el proyecto y en la entrega oportuna de los distintos entregables.

@@ -1,0 +1,23 @@
+¿Qué salió bien?
+● La organización, hubo una clara lista de las tareas por hacer para cada HU, en un Excel, donde cada integrante anotaba su nombre en la tarea que tomaba y las horas que le llevó hacerla.
+● Las reuniones diarias permitieron enterarnos de lo que hacía cada uno, esto evitó trabajo duplicado, permitió visibilidad, transparencia y adaptabilidad.
+● Hubo buena comunicación durante todo el sprint. Lo cual promovió el compromiso y el compañerismo. Hubo muy buena sinergia, confianza y apoyo para contar cuando un integrante tenía problemas para desarrollar sus tareas.
+● La dirección de la Scrum Master permitió un avance fluido a lo largo de todo el sprint.
+● Se usaron muy bien las vías de comunicación del equipo, com● Discord, comunidad de Whatsapp, Trello, Reuniones con tiempo acotados, repositori● Git, etc.
+● Hubo trabajo colaborativo cada vez que se necesitaba y todo estábamos con una disposición y super atentos ante cualquier problema que se presentara
+
+¿Qué salió mal?	
+● El Trello no fue usado tanto como se debería, por lo que a veces no se sabía en que estaba un integrante, ya que había diferencias con el excel y eso afecta cuando había dependencia entre tareas.
+● Hubo tareas en que se destinó un sólo integrante a realizar sin backup, y cuando ese integrante no daba a basto no tenía reemplazo.
+● No se logró cumplir con todas las HU prometidas, ni con todos los criterios de aceptación. Se puede deber a mala estimación de esfuerzos, mala distribución de tiempos personales, falta de conocimiento, etc.
+● No se comenzó a trabajar de inmediato el primer día del sprint, hubo retrasos debido a ajustes en los tiempos de cada integrante ya que el horario la primera semana de clases va sufriendo cambios, y también se realizaron ajustes en la organización (como llenar el excel de tareas).
+● Se cambiaron algunos criterios de aceptación de HU y se tuvo que redactar las HU del Sprint 2 veces.
+● Hubo una mala concepción de algunas historias de usuario lo cual nos provocó un leve retraso que no consideramos ya que estábamos con el tiempo justo
+● No se utilizó de la mejor manera el trello, lo cual nos pudo ayudar mejor con la distribución de tareas
+
+¿Que se debería mantener?
+● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
+● La distribución en excel de tareas con los tiempos de dedicación en horas por HU.
+● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.
+● La comunicación, la atención y la buena disposición de apoyar a los demás
+● Seguir usando nuestras vías de comunicación de manera organizada y ordenada, para encontrar rápidamente la información

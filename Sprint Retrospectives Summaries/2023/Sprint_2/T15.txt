@@ -1,0 +1,11 @@
+¿Qué salió bien?
+● Seguir con las buenas prácticas del sprint pasado.
+● Buena comunicación y trabajo colaborativo entre los miembros del equipo.
+
+¿Qué salió mal?
+● La definición de los detalles en las historias de usuarios complejizó el avance en las tareas.
+● Mal uso de múltiples repositorios en Git dificultó la integración de los avances del equipo.
+● Probar el sistema en la VM con mayor antelación en vez de un día antes de la presentación.
+
+¿Que se debería mantener?
+● Mantener la coordinación, puesto que gracias a ello hemos logrado organizarnos como equipo y avanzar en el desarrollo del proyecto.

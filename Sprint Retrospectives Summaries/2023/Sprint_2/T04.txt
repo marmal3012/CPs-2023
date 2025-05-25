@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● La coordinación y la comunicación durante este sprint aumentó muchísimo en comparación al anterior, lo cual nos permitió tener a múltiples desarrolladores trabajando en una escena sin tener mayores conflictos de código, cosa que en sprint anteriores nos resultaba imposible.
+● Nuestra presencia en redes sociales está aumentando en un ritmo considerable gracias al aporte de nuestra encargada de marketing.
+● Se programó un bot de discord para poder interactuar de forma remota con los contenedores de docker que mantienen nuestro backend, permitiendo actualizarlo, reiniciarlo y consultar los logs, eliminando la necesidad de tener que acceder al servidor para administrar los contenedores.
+
+¿Qué salió mal?
+● Se subestimó considerablemente la historia 29, lo que supuso un esfuerzo mayor al considerado inicialmente, ya que muy a diferencia de otros modos de juego presentes en el sprint anterior, este necesitaba muchos más detalles técnicos no previstos, para tener un multijugador funcional y persistencia de datos para los jugadores.
+● Debido a la semana libre, bajó en gran medida el rendimiento del equipo lo que significó que algunas historias se extendieron por más horas de las estimadas.
+
+¿Que se debería mantener?
+● Se deben mantener las salidas extracurriculares, debido a que han ayudado a aumentar la confianza y moral dentro del equipo y reducir conflictos internos.
+● Se deben mantener las reuniones diarias y semanales, con el fin de mantener y fortalecer la coordinación y confianza dentro del equipo.
+● Se debe mantener el compromiso con el proyecto que tiene cada miembro del equipo, que nos permitió realizar todas las historias y criterios comprometidos para el sprint sin las horas extras que esto requería

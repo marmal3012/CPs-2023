@@ -1,0 +1,14 @@
+¿Qué salió bien?
+● Permitimos el espacio para tener tiempos de descanso como correspondía dado el contexto del sprint.
+● Se siguió desarrollando el ritmo de trabajo, de forma que se llegó al review con mejor moral y resultados.
+● Se refinó el sistema de reuniones, tal que sean en días óptimos y con motivos más claros.
+
+¿Qué salió mal?
+● Faltó predecir la complejidad de revisión del proyecto, para la tercera y última entrega ya se solicitó realizar la revisión en FabLab.
+● Es necesario implementar separación de versiones de producción y testing de software, para así evitar posibles fallas en la presentación.
+● Se inició la fase de testing muy tarde, por ende, hubo que cambiar sistemas en los últimos días.
+
+¿Qué se debe mantener?
+● El uso del espacio de trabajo en Fablab
+● Mantener el compromiso con el proyecto y su desarrollo
+● Mantener el uso de GitHub y las branch de desarrollo.

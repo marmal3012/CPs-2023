@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Al existir una duda o algo importante se discutió de manera inmediata, como equipo cuando surgía un tema importante que era necesario conversar o discutir para saber el camino que debería tomar nuestro juego, nos reuníamos y lo discutíamos entre todos.
+● Se logró coordinar bien los tiempos, a pesar de que teníamos otras asignaturas, como equipo pudimos organizar nuestros tiempos para las reuniones de trabajo del sprint.
+● Apenas se terminó una historia de usuario se presentó a todo el equipo para ver sus opiniones/reacciones.
+
+¿Qué salió mal?	
+● Hubo una baja organización con quién estaba encargado de la tarea, debido a que como equipo no repartimos de buena forma las responsabilidades de cada integrante.
+● Hubo pocas opiniones respecto a las tareas, como equipo al trabajar y/o terminar las tareas, encontramos que nos faltó tener una opinión más marcada de qué mejoras se podían hacer/tener claridad de que es lo que nos gustaría realmente
+
+¿Que se debería mantener?
+● Mantener la motivación, puesto que gracias a ello como equipo hemos logrado avanzar y salir adelante de las tareas.
+● Mantener las buenas relaciones/compañerismo entre los miembros del equipo, ya que a pesar de no conocernos previamente se dio un ambiente de confianza.
+● Seguir usando las Branch de git debido a que nos ayudó a controlar las versiones del código y evitar las pérdidas de datos.

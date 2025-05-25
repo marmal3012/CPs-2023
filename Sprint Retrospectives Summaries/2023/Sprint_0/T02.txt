@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Se logró avanzar en gran parte de las tareas, a pesar de que los miembros del equipo no estaban familiarizados con las tecnologías utilizadas.
+● Hubo una buena comunicación dentro de las células de trabajo, es decir, buena comunicación entre integrantes que estaban trabajando con realidad aumentada y también entre integrantes que estaban realizando tareas relacionadas al front-end.
+
+¿Qué salió mal?	
+● Hubo muchos atrasos en las entregas debido a una falta de organización del equipo en general.
+● Faltó llamados de atención para integrantes del equipo por un mal desempeño en el desarrollo de sus tareas.
+● Hubo una mala distribución de tareas entre los integrantes del equipo, debido a una mala estimación de tiempos designados para cada tarea.
+● Hubo una mala redacción en las historias de usuario y no se les tomó la importancia debida en el proceso de desarrollo del proyecto lo cual perjudicó el resultado final.
+● Mala distribución del tiempo efectivo a la hora de realizar tareas simples y que no eran prioridad para el desarrollo del proyecto.
+● Hubo una falta de comunicación entre células de trabajo, no había claridad respecto del avance de las demás áreas de trabajo.
+● Nulo uso de herramientas de organización para gestionar las tareas a realizar.
+
+¿Que se debería mantener?
+● Mantener la buena disposición a la hora de pedir cooperación entre integrantes.
+● Mantener la “buena onda” entre los miembros del equipo, ya que a pesar de conocernos por primera vez en la asignatura se da un ambiente de simpatía y cordialidad.
+● Mantener la buena comunicación dentro de las células de trabajo.

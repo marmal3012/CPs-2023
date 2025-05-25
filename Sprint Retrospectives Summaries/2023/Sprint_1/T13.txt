@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Utilización de Trello para las asignaciones de tareas, se logró una distribución equitativa del trabajo a través de tareas.
+● Realización de daily durante todo el sprint, a pesar de tener distintos horarios y asignaturas entre todos, se logró coordinar y asistir de manera consistente a todas las reuniones diarias.
+● Utilización de GitHub y ramas por persona, para lograr trabajar de manera independiente y lograr una integración de código más fácil con el resto del equipo.
+● Se realizaron la gran mayoría de las tareas, a pesar de estar contra el tiempo, se logró realizar casi todo lo relacionado a este sprint, salvo 2-3 criterios de aceptación.
+
+¿Qué salió mal?
+● Se subestimó el tiempo, en las historias de usuarios no se consideraron los cambios arquitectónicos.
+● Falta de comunicación con la cliente, el cliente no tuvo tiempo para atendernos en el sprint.
+● Nos faltó definir aspectos visuales cruciales desde el inicio, la definición de los colores a utilizar realmente no se definieron como tal.
+● Se decían los avances en dailys pero no se mostraban visualmente, por lo que había desconección en ciertas áreas.
+● Utilizar el mismo repo del PMV, para el próximo sprint se creará un nuevo repo, para así separar el pmv de la app en producción.
+
+¿Que se debería mantener?
+● Mantener la constancia con las Daily, puesto que gracias a ello se sabe que es lo que está listo, en que se está trabajandoo que faltao se necesita ayuda.
+● Mantener trabajo colaborativo entre los miembros del equipo, ya que, el trabajar en conjunto a otros (no necesariamente en la misma tarea), ayuda y motiva a los mismo integrantes.
+● Seguir subdividiend Historias de Usuarios en distintas tareas para hacer menos pesado el trabajo y así distintos integrantes pueden construir una historia pesada de manera más simple.

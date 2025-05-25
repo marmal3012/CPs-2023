@@ -1,0 +1,11 @@
+¿Qué salió bien?
+● Durante este Sprint funcionó correctamente el uso de Trello para la organización y realización del proyecto. Pudimos enterarnos clara y oportunamente de quién estaba haciendo qué cosa, y cuales criterios de aceptación se encontraban listos o en desarrollo.
+● La planificación de puntos de historia estuvo de acuerdo con la carga que estas presentaban a la hora de implementar las historias de usuario al proyecto.
+● Existió una reunión de mayor extensión 1 vez por semana, donde se discutieron problemas, conversamos soluciones y resolvimos conflictos de código en conjunto.
+
+¿Qué salió mal?	
+● La disposición de hacer un espacio para las daily meetings, en el sentido de que fue difícil que cada uno de los 6 integrantes hiciera un pequeño espacio en su agenda para poder juntarnos 15 minutos y conversar de los avances en un horario común. Finalmente se logró y se mantuvieron y respetaron los horarios.
+
+¿Que se debería mantener?
+● Debería mantenerse la atmósfera de buena onda y trabajo colaborativo que hemos podido desarrollar a lo largo del año.
+● Cada vez el equipo es más puntual en las reuniones

@@ -1,0 +1,22 @@
+¿Qué salió bien?
+● Tuvimos 3 Oculus para el desarrollo, uno de un compañero de Feria pasado y dos de Semillero. Esto nos ayudó mucho a testear en menos tiempo y desarrollar cada uno por su cuenta según la división de tareas.
+● Se continuó utilizando el Excel de planificación, donde cada historia se dividió en distintas tareas con un encargado y estado (en proceso o lista). Todos íbamos actualizando este Excel constantemente lo cual nos permitió tener un control de lo que nos faltaba y qué tareas estaban tomadas.
+● Nos dividimos las historias en subequipos, nuevamente separamos las historias en subequipos para poder trabajar de forma localizada en ciertas historias y disminuir el tiempo de integración.
+● Nos juntamos constantemente y la comunicación mejoró, estábamos actualizados en las tareas que cada uno realizaba y las juntas de equipo aumentaron para desarrollar y testear en conjunto.
+● El equipo creció en habilidades, en este Sprint se notó nuestro crecimiento en programación, puesto que nos demoramos mucho menos en programar funcionalidades en Unity.
+● Nuestra organización mejoró, como equipo e individualmente, ya que conseguimos distribuir mejor nuestro tiempo para cumplir con los criterios de aceptación.
+● La forma de trabajar con Unity y Git para compartir código, utilizando branches para traspasar archivos y escenas, lo cual mejoró el tiempo de integración.
+● Motivación del equipo, todos los integrantes están motivados con el proyecto que estamos realizando, lo cual se ha notado en la calidad del trabajo que hemos realizado.
+● El compromiso del equipo, la asistencia de los integrantes fue constante.
+● Se aumentó la confianza entre los integrantes del equipo, gracias a las juntas para trabajar como para compartir.
+● Nuestro compañer● Jorge adquirió un nuevo computador. En su anterior computador, le costaba trabajar con Unity debido a los recursos necesarios, por lo que en esta ocasión pudo aportar mucho más en lo que es programar en Unity y testear.
+
+¿Qué salió mal?
+● La integración, si bien hemos mejorado nuestro método de integración, toma tiempo el ser ordenado con los distintos scripts y assets que debemos subir a Git para traspasar al main, como también existen configuraciones que no quedan guardadas.
+● Incompatibilidad de paquetes, hubo unos efectos visuales (sangre) que no se pudieron incluir en este Sprint debido a errores producidos por tener Ready Player Me y VFX instalados, por lo que tuvimos que desinstalar este último.
+
+¿Que se debería mantener?
+● Mantener la motivación y confianza entre el equipo.
+● Juntas en casa de uno de los integrantes para avanzar, para este sprint se continuó con las juntas en casa para el desarrollo puesto que han dado buenos resultados en avances.
+● Uso del Excel de planificación, debido a que fue más cómodo para todos.
+● División de historias en subequipos, puesto que hasta ahora este ha sido el método que nos ha brindado mejores resultados.

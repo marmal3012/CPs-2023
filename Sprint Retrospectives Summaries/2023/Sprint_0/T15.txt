@@ -1,0 +1,14 @@
+¿Qué salió bien?
+● Se logró avanzar y terminar las tareas relacionadas al sprint, a pesar de la carga académica que otros ramos nos daban. Hubo buena coordinación y compromiso del equipo.
+● Había compromiso de parte de todos los integrantes del equipo, ya que independiente de los problemas individuales que pudiéramos tener, se avanzó para lograr entregar a tiempo.
+● El equipo logró identificar rápidamente momentos de atasco y se ocupó del trabajo colaborativo efectivamente para poder llevar adelante el proyecto en tales situaciones sin desperdiciar el tiempo de trabajo.
+● Los miembros del equipo se comunican frecuentemente con el Scrum Master para recibir nuevo trabajo cuando se encontraban con tiempo extra en sus manos.
+
+¿Qué salió mal?	
+● Las reuniones no fueron tan recurrentes, de modo que hubo ocasiones donde se avanzaba más lento de lo que se planeaba y no nos dábamos cuenta hasta mucho tiempo después.
+● No se dió el tiempo suficiente para repasar documentación de las diferentes tecnologías abarcadas así que en ocasión se tuvo que reescribir desde el principio líneas de código previamente hechas. Ya sea porque estuvieran basadas en una versión previa de la tecnología o no se integraban con esta de la manera esperada.
+● Se subestimó el tiempo necesario para poder investigar, probar e implementar las diferentes historias de usuario escogidas.
+
+¿Que se debería mantener?
+● Mantener el compromiso, puesto que gracias a ello hemos logrado coordinarnos como equipo y avanzar en el desarrollo del proyecto.
+● Mantener la buena relación entre todos los integrantes del equipo, ya que esto nos ha permitido trabajar en equipo de forma efectiva, ser capaces de pedir ayuda si se considera necesario y avanzar en el desarrollo del proyecto.

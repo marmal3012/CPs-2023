@@ -1,0 +1,21 @@
+¿Qué salió bien?
+● Se logró culminar satisfactoriamente todo lo propuesto para este Sprint a pesar de algunos pequeños imprevistos durante el desarrollo.
+● Se implementó una planificación y enfoque efectivos para el desarrollo de actividades y funcionalidades
+● Se realizó un cambio en el modo de trabajo del equipo, lo que mejoró la distribución de tareas y la carga de trabajo.
+● Se resolvió un problema interno de manera exitosa, contribuyendo a un mejor ambiente y espíritu en el equipo.
+● Se estableció un ambiente de trabajo positivo, fomentando la colaboración y apoyo entre miembros del equipo.
+● Se mejoró la asistencia a las reuniones diarias y la comunicación de errores, problemas y soluciones.
+
+¿Qué salió mal?
+● Se presentaron complicaciones en el proceso de prueba del sistema debido a la disponibilidad limitada del VR, agravadas por la proximidad de la presentación debido a la semana de receso.
+● Se retrasó el inicio de ciertas funcionalidades que deberían haberse abordado inicialmente de manera más completa.
+● Se experimentó una demora en la creación del repositorio de GitHub, lo que resultó en dificultades para llevar a cabo el trabajo colaborativo de manera eficiente.
+● Una falta de comunicación llevó a la corrupción del repositorio en un momento dado, lo que requirió un rollback y reintegración de un proyecto en otro (En continuación al punto anterior, donde se mencionó la existencia de un proyecto local mientras se esperaba la incorporación al repositorio)
+● La falta de comunicación también llevó a la creación de una funcionalidad que no era coherente con otra desarrollada por otra parte del equipo.
+● Actualmente, no es posible ejecutar el proyecto de manera nativa en Oculus Quest, lo que representa un desafío significativo para la presentación de avances y realización de pruebas.
+
+¿Que se debería mantener?
+● Continuar utilizando el repositorio de GitHub como plataforma principal para el trabajo colaborativo entre los diferentes desarrolladores.
+● Mantener el ambiente de trabajo positivo y la comunicación efectiva entre las distintas partes del equipo.
+● Seguir la práctica de la separación de tareas por área de trabajo o por historia de usuario.
+● Perseverar en el compromiso con el proyecto y en la entrega oportuna de los distintos entregables.

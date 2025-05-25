@@ -1,0 +1,22 @@
+¿Qué salió bien?
+● Se aprendieron tecnologías que nos serán útiles en el resto de los sprints, como el uso de transformers para analizar texto, análisis de sentimientos, conexiones entre servidores especializados.
+● Se cumplieron en gran parte las funcionalidades pactadas - el equipo se preocupó de que la mayoría de los criterios de aceptación comprometidos fueran cumplidos a nivel funcional.
+● Se creó la estructura base (con 4 servidores que se comunican mediante requests) que será utilizada en el proyecto final, es decir, es trabajo que no se volverá a realizar.
+● Comunicación con encargados de prácticas de departamentos que proveyeron información útil, para entregar un producto final de calidad a usuarios reales. 
+● El uso de repositorios en Git para coordinar y ordenar el trabajo, lo que facilitó mucho que todos pudieran incorporar cambios realizados, y pudiéramos llevar un mejor seguimiento de lo que cada uno hacía
+
+¿Qué salió mal?	
+● No se trabajó lo suficiente en la interfaz de usuario, la cual estaba claramente deficiente, por lo que olvidamos que gran parte de la experiencia con el software viene dado por cómo se ven los elementos.
+● Algunos miembros no pudieron dedicar tiempo desde el inicio del sprint, lo que ralentizó el comienzo del desarrollo y pudo haber sido evitado si se hubiera tomado en cuenta la carga académica al tomar un ramo importante como es este.
+● Se utilizaron muchas tecnologías que varios miembros no manejaban agregando dificultad innecesaria y por tanto tiempo gastado en aprender en vez de desarrollar.
+● Debimos partir con un monolito en vez de 4 servicios para disminuir la complejidad, el no hacer esto significó que muchas tareas funcionalmente simples tomaran más tiempo del previsto.
+● Reunir a mucha gente trabajando en el mismo problema al mismo tiempo, lo que da paso a gente que está presente sin aportar realmente y perdiendo tiempo que pueden usar en desarrollar.
+● No ser constante con el registro de tiempos de tareas, lo que dificulta el medir el esfuerzo real.
+● No pedir un pre-sprint al ayudante, cosa que nos hubiera ayudado a darnos cuenta de lo necesario que era desarrollar un buen aspecto para la página y enfocar mayor parte de la presentación en explicar cómo funciona el análisis de texto que realizamos.
+● Trabajar en tareas que no se agregaron al PMV
+
+¿Que se debería mantener?
+● Mantener reuniones diarias, lo que permitió mantener una comunicación fluida entre los integrantes, y que todos estuvieran informados sobre las tareas a realizar.
+● Mantener las reuniones divertidas. Si bien varios de los que estamos en el grupo no nos conocíamos antes, la buena disposición de los integrantes ayudó a hacer que rápidamente
+● Solicitar ayuda a otros integrantes cuando se tenga un problema.
+● Escribir y asignar cada tarea en github projects

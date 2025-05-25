@@ -1,0 +1,20 @@
+¿Qué salió bien?
+● Hubo buena coordinación del equipo debido a que hubo una buena comunicación en el equipo para cumplir partes respectivas del proyecto.
+● Hubo mucho apoyo entre distintos integrantes con respecto a lo que sabía cada uno, logrando un avance de trabajo continuo y cooperativo. Cuando un integrante tenía problemas siempre hubo apoyo.
+● Hubo motivación de mejorar el proyecto constantemente ya que consultamos varias veces a la profesora para salir de dudas con respecto a problemas u obstáculos que íbamos teniendo, lo que nos permitió avanzar hacia un mejor proyecto.
+● Realizamos todas las HUs que habíamos propuesto para el PMV, y pudimos demostrar casi todos los criterios de aceptación que habíamos definido.
+● Se respetaron los tiempos personales disponibles de cada integrante, siempre preocupándonos de respetar las prioridades de cada uno.
+
+¿Qué salió mal?	
+● No tuvimos reuniones diarias todos en conjunto. Si bien frontend y backend tuvieron reuniones por separado para coordinar sus partes, las reuniones diarias no se realizaron.
+● Cambio de roles de desarrollo durante el sprint que pudieron causar pérdidas de tiempo por el aprendizaje que se requería de cada herramienta.
+● Extensión en las reuniones de equipo, debido a comentarios excesivamente largos y distracciones contínuas, y debido a falta de determinación para respetar los tiempos designados.
+● Retraso en la toma de decisiones debido a que se priorizó democratizar todos los aspectos de la aplicación, incluir a todos los integrantes, y dudas con respecto a lo que era más correcto.
+● Dudas reiteradas respecto a materia debido a falta de atención en clases, distracciones, o inasistencias.
+● En cuanto a la Scrum Master, faltó planificación con tiempos más definidos para cada actividad. Falta de organización y distribución de tareas homogéneas en torno a los puntos de historia. Esto pudo deberse al desconocimiento de las habilidades y formas de trabajar de cada integrante, y la falta de experiencia en la metodología Scrum.
+
+¿Que se debería mantener?
+● Debemos mantener la buena comunicación entre nosotros. La confianza que tenemos para comunicar las cosas que nos dificultan, y la buena disposición para ayudar cuando tenemos dominio de un tema o una herramienta.
+● Mantener la actitud de constante mejora y criticidad con el trabajo personal. Esto nos permitirá seguir mejorando y entregar un trabajo final de calidad.
+● Mantener la motivación y las ganas de aprender. De esta forma podremos ser constantes en el desempeño grupal.
+● Debemos mantener el buen trabajo en equipo que logramos, ya que esto nos permitirá mantener y mejorar la coordinación en cuanto a carga de trabajo.

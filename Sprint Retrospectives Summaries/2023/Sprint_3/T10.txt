@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Las reuniones diarias nos mantuvieron informados del proceso y en qué tarea iba cada uno, obteniendo así un flujo de información fluido para no toparnos y no crear un problema que nos costará más tiempo en una historia.
+● Hubo buena comunicación durante todo el sprint. Lo cual promovió el compromiso y el compañerismo. Hubo muy buena sinergia, confianza y apoyo para contar cuando un integrante tenía problemas para desarrollar sus tareas.
+● La dirección de la Scrum Master permitió un avance fluido a lo largo de todo el sprint.
+● Se usaron muy bien las vías de comunicación del equipo, com● Discord, comunidad de Whatsapp, Trello, Reuniones con tiempo acotados, repositori● Git, etc. Mejor incluso que en el Sprint anterior.
+● Tuvimos reuniones antes de la entrega de Sprint para que todo funcionara de la manera esperada y tener una base de datos preparada para nuestro resumen de la visualización de datos.
+● Cambiamos la organización en cuanto a coordinación de trabajo para asegurar una integración gradual, lo que permitió ir terminando las HU.
+
+¿Qué salió mal?
+● Nos quedamos hasta altas horas de la noche cambiando detalles de la aplicación el día anterior al Sprint, lo cual prometimos no volver a hacer.
+
+¿Que se debería mantener?
+● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
+● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.
+● Seguir usando nuestras vías de comunicación de manera organizada y ordenada, para encontrar rápidamente la información.
+● El buen uso de Trello que existió en este sprint.
+● La reunión presencial del día jueves, ya que podíamos vernos a las caras y poder comunicarnos de manera distinta a la online

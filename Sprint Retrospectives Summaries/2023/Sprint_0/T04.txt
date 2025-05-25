@@ -1,0 +1,20 @@
+¿Qué salió bien?
+● El equipo logró organizarse de forma efectiva distribuyendo las tareas en 2 equipos de 3 personas y estableciendo plazos realistas para que todo estuviera listo y hubiera controles de calidad entremedio.
+● Se utilizó un repositorio privado de gitlab, el cual permitió mantener un versionamiento del código y copias de seguridad sin preocuparnos por límites de almacenamiento. Esto fue útil debido a que el gitlab de la universidad tenía un límite de 100MB y nuestro repositorio actualmente supera los 1.5GB de almacenamiento.
+● El repositorio de gitlab contó con pipelines para automatizar la tarea repetitiva de subir el código al servidor de respaldo en AWS. Esto ayudó a que por cada commit realizado al backend, este cambio automáticamente se reflejaba en el juego.
+● El equipo demuestra un alto grado de comunicación efectiva, siempre que alguien tenía problemas en alguna tarea, este lo comunicaba al resto para ver cómo se podía solucionar. Además con esto cada miembro del equipo sabía en que estaba trabajando cada integrante.
+● Tener un servidor de respaldo en AWS para el backend, debido a que por la situación climática justo durante la presentación se cortó la luz del servidor principal y el servidor secundario pudo mantener el juego funcionando
+
+¿Qué salió mal?
+● Se subestimaron demasiado los puntos de historia, lo que provocó que se trabajaran 93 horas más de las presupuestadas. Si bien esto ayudó a tener un juego muy pulido y obtener un 100 en la presentación, implicó que se debió dejar de lado otras asignaturas para terminar con los criterios de aceptación prometidos.
+● No se revisó la build final antes de la presentación, provocando un fallo en la compilación de un asset del juego. Lo cual nos jugó una mala pasada durante la presentación del PMV, pero que logramos solucionarlo debido al buen versionamiento del código.
+● Se enviaron commits a las ramas protegidas. Prohibir este comportamiento, ayudará a reducir el número de rebases a la hora de juntar las ramas.
+● Faltó realizar una revisión de código antes de aprobar los merge requests, para evitar cambios que rompan el código y así evitar tener que regresar a versiones anteriores del código para ver que cambio rompió el código.
+● Depender de Javier para los rebases y merge de las ramas. Se recomendó al equipo estudiar git durante las vacaciones para que los rebase y merge request sean una tarea de todos, para que así no exista solo un responsable de las múltiples ramas creadas en el proyecto y evitar errores al juntar el código
+
+¿Que se debería mantener?
+● Mantener la motivación, debido a que así el mismo equipo se impulsa a seguir adelante y resolver los múltiples desafíos que se presenten en el desarrollo de este.
+● Mantener la “buena onda”. Ayuda a establecer lazos entre los miembros del equipo y que el proyecto se sienta personal en cierto grado.
+● Seguir usando el Gitlab privado, las pipelines de CI/CD y las copias de seguridad diarias. Para mantener el buen versionamiento del código y la administración de este.
+● Seguir usando git flow, ya que se podían rastrear fácilmente los errores en los cambios entre versiones y así evitar las pérdidas de tiempo que podía generar buscarlas manualmente. Esto debido a que cada cambio nuevo se realizaba en una rama nueva.
+● Mantener reuniones diarias. Permitieron el avance continuo del proyecto y la resolución de los problemas que iban surgiendo en el desarrollo de este.

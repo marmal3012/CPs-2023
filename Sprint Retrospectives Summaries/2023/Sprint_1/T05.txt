@@ -1,0 +1,17 @@
+¿Qué salió bien?
+● Se logró avanzar en gran parte de las tareas, a pesar de que algunos miembros debieron dedicarse a salvar otras asignaturas. Hubo buena coordinación del equipo. Las reuniones diarias permitieron enterarnos de lo que hacía cada uno.
+● Se consiguió el apoyo de profesores especializados: Claudi● Lobos (Computación Grafica) y Dr. Gonzal● Severino (Físico, especializado en propagación del fuego). Se logró entender la perspectiva del cliente (Academia Nacional de Bomberos) dado que se tuvo que redefinir desde 0 las historias de usuarios, ya que las que teníamos antes de reunirnos con el cliente no eran suficientemente valiosas y muy ambiciosas para implementar.
+● Incremento de la cohesión y compromiso del equipo con el proyecto. Debido a situaciones del grupo tuvimos que resolver un conflicto que debido a que se confrontó de buenas a primeras el equipo mejoró mucho en cohesión y en confianza.
+
+¿Qué salió mal?	
+● Hubo atrasos en el Sprint debido a la reunión con el cliente, la cual produjo la redefinición de las Historias de Usuarios, imposibilitando reciclar en su totalidad el avance creado en el PMV, lo que produjo un atraso considerable para avanzar en el Sprint 1.
+● Dificultad en la asignación de tareas, no supimos cómo definir y asignar tareas acordes para cada miembro del equipo.
+● Problemas con la compresión del software en un archivo más ligero. Tuvimos que llevar el computador de escritorio para presentar correctamente.
+● Falta de repositorio en GitHub, lo que dificulto la interacción de las diversas partes desarrolladas en paralelo.
+
+¿Que se debería mantener?
+● Mantener la motivación, puesto que gracias a ello hemos logrado salir adelante y coordinarnos como equipo.
+● Mantener la “buena onda” entre los miembros del equipo, ya que a pesar de conocernos por primera vez en la asignatura se da un ambiente de simpatía y cordialidad.
+● Mantener las reuniones diarias, puesto que ayudan a entender como los integrantes van desarrollando sus partes, además de visualizar el avance de cada uno.
+● Comunicarnos de forma efectiva como grupo, señalando problemas entre integrantes o trabajos realizados.
+● Ayuda en la cohesión del grupo

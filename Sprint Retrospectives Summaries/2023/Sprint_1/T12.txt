@@ -1,0 +1,28 @@
+¿Qué salió bien?
+● Nos reunimos diariamente, por lo que pudimos saber a tiempo qué cosas hacían los demás y aprovechamos de avisar si necesitaríamos asistencia de otro compañero durante el día o si alguna funcionalidad necesita de otra para probarla correctamente.
+● Resultó bien el hosting local, que a pesar de no ser lo ideal, nos permitieron realizar pruebas exhaustivas sin preocuparnos por límites de uso.
+● Tener un deploy de testing integrado en github nos permitía saber si las ramas funcionan correctamente antes de hacer merge.
+● Tener una rama de desarrollo independiente de la rama principal.
+● Manejamos mejor que en el PMV las ramas de github, separando en features nuevas y hotfixes.
+● Integrante 1: Mantener el modelo de base de datos actualizado y consistente con su par en la nube.
+● Integrante 2: Salir de su camino para ayudar a compañeros que estaban muy atrapados en su tarea.
+● Integrante 3: Con su vasta experiencia, ayudó a dirigir al equipo por el camino correcto para aprobar el sprint.
+● Integrante 4: Se fija mucho en los detalles, haciendo notar falencias en las soluciones propuestas, destacando también alternativas mejores.
+● Integrante 5: A pesar de no tener experiencia con más de la mitad de las herramientas utilizadas, logró aprender en buena medida como usarlas y así ayudar a avanzar en el proyecto.
+● Integrante 6: Se utilizó una herramienta muy compleja para desarrollar cosas como el chat y las notificaciones y aun así pudo entregar módulos útiles que pudieron integrarse en todo el proyecto y que se seguirán usando.
+
+¿Qué salió mal?
+● Se dedicaron muchas más horas de trabajo que lo calculado. Claramente, hubo problemas de cálculo de esfuerzo para las historias, y dificultades en explicar la complejidad real que implica cada una.
+● Hubo asimetrías en las horas de dedicación de los integrantes. Algunos integrantes dedicaron más del doble de la cantidad de horas que lo que dedicaron otros.
+● No integrar testing de software, lo que provocó que algunas veces ciertos cambios rompieran otras funcionalidades.
+● No consultar a los demás de manera oportuna cuando se encontraba con un problema.
+● No buscar información suficiente antes de pedir ayuda.
+● Preparar la presentación el mismo día del sprint review.
+● No plantearnos plazos para entregar funcionalidades asignadas, lo que no permitía darnos cuenta cuando algo estaba retrasada.
+● No comunicarse con potenciales clientes
+
+¿Que se debería mantener?
+● Usar github para organizar el proyecto, ya que está integrado directamente con los repositorios y facilita el flujo de trabajo y reporte.
+● Hacer reuniones diarias, que aseguren una constante comunicación entre los miembros del equipo y detectar problemas.
+● Estar disponibles para ayudarnos entre nosotros.
+● Buena actitud en general, resolver diferencias de opinión conversando

@@ -1,0 +1,14 @@
+¿Qué salió bien?
+● Se realizó un correcto uso de ramas en git, trabajando en paralelo con mínimos inconvenientes.
+● Mantuvimos las reuniones diarias de forma consistente, manteniéndonos actualizados sobre nuestras actividades como grupo.
+● En comparación al PMV esta vez sí se tomaron las precauciones necesarias para un correcto uso y mantenimiento del server.
+
+¿Qué salió mal?	
+● En la 3era historia que realizamos nos relajamos y no intentamos realizarla de manera más completa, para así tener un mejor terminado en la historia, en cambio dejamos algo bastante simple.
+● Se esperó hasta muy tarde para subir la página web a Azure, lo que provocó errores a último momento.
+● Se le llama la atención a uno de los miembros (Victor) debido a que, se incluyó poco en las reuniones y entregó los avances de los criterios de aceptación fuera de horario.
+
+¿Que se debería mantener?
+● Mantener el compañerismo y buen trabajo en equipo que hemos tenido, también mantener el buen ambiente que hay para ser honesto y decir cuando alguien ha hecho algo o no, o si alguien tiene un problema con algo y no puede avanzar.
+● Mantener el trabajo en pareja, ya que se pudo trabajar mejor.
+● Deberíamos mantener e incentivar el trabajo grupal de manera presencial, para una mayor motivación.

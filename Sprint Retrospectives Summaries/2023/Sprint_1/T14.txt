@@ -1,0 +1,15 @@
+¿Qué salió bien?
+● Se hicieron grandes avances con respecto a espacios de trabajo y herramientas disponibles, además de que esto llevó a incrementar las relaciones de la Pre-empresa con distintas entidades (Ej: Fablab, profesores de otros departamentos).
+● Hubo compromiso con la realización del sprint cuando se trataba de situaciones complejas (Ej: Pasar largas horas en la universidad desarrollando el hardware).
+● Se respetó el horario y constancia de las reuniones. 
+
+¿Qué salió mal?
+● No se cumplieron todos los deadlines impuestos, se debe respetar más el ritmo de trabajo.
+● Existe gran dependencia entre las distintas áreas del equipo, sin embargo, esto es natural dado el ámbito del proyecto.
+● Hubo falta de materiales y herramientas durante una parte importante del sprint, se debería haber hecho más por la obtención de estos beneficios (Ej: Acces● Fablab).
+● Se llamó la atención a dos integrantes por distintas razones. (Falta de tiempo y falta de resultados, respectivamente)
+
+¿Qué se debe mantener?
+● Mantener el uso de repositorios y su constante actualización para cada branch del proyecto.
+● Mantener el ritmo de trabajo observado alrededor de la última semana en términos del área de hardware.
+● Mantener la unificación de conocimiento entre los integrantes del equipo, es decir, el que cada integrante mantenga informados a los demás del cómo funcionan los elementos que se tienen en el proyecto (Ej: Hardware, AWS, React, etc).

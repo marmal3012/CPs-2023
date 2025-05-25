@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Asignar un canal de discord para anotar avances de forma asíncrona para poder tener una noción general de en qué estaba específicamente cada integrante del equipo.
+● Se logró un avance satisfactorio en el prototipo del producto, a pesar de contar con poco tiempo para el desarrollo. ● Las reuniones con la ayudante siempre fueron útiles todas las semanas, ya que pudimos aprovechar de preguntar cosas pertinentes al desarrollo y entrega del PMV.
+
+¿Qué salió mal?	
+● El manejo de versiones en github en el final del sprint se complicó, dificultando el merge de las distintas branches.
+● La falta de comunicación por parte de algunos miembros del equipo, que fallaban al comunicar ciertos problemas a los demás integrantes.
+● Se le llama la atención a Felipe, ya que no participó de las reuniones ni mostró avances de desarrollo durante el sprint.
+● No teníamos un flujo de asignación de tareas directo, había redundancia en el reporte de tareas (discord, dailys, trello), lo que complicaba informarse sobre el avance de otros miembros.
+
+¿Que se debería mantener?
+● Mantener roles asignados durante la elección de tareas, para coordinar la futura distribución de tareas en los próximos sprints.
+● Realizar las reuniones diarias y semanales para poder mantener a todo el equipo actualizado sobre las tareas hechas y por hacer.

@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Organización de tiempos, se organizó correctamente el tiempo de cada integrante para poder conciliar la carga académica con el trabajo continuo en el PMV.
+● Unificar el propósito del equipo, se logró tener claro desde mucho antes de comenzar el sprint, cuál era el foco del prototipo que se iba a realizar y cada uno pudo resolver sus dudas con anticipación, para evitar malos entendidos y errores al momento de desarrollar el PMV
+
+¿Qué salió mal?	
+● Reuniones demasiado largas para temas muy puntuales, en total hubo 5 reuniones en todo el sprint, cada una de 1 hora aproximadamente, pero en algunas ocasiones la reunión tenía un objetivo muy específico que no se lograba resolver de forma eficaz o se desviaba el tema de la reunión, generando reuniones extensas y con pocas conclusiones.
+● Puntualidad en reuniones por parte de algunos integrantes, generando demora en algunas ocasiones, las cuales aumentaron las extensiones de algunas reuniones.
+● Mala utilización de Trello, ya que, si bien se tenían todas las historias con las características de cada una descrita en el backlog, no se manejó una lista de tareas realizadas o el progreso de los criterios de aceptación, generando muchas veces una revisión doble de algunas historias, para saber si se cumplieron los objetivos de cada una.
+
+¿Que se debería mantener?
+● Nuestra comunicación efectiva, es decir, la buena forma que tenemos de expresar nuestras inquietudes y la buena disposición de parte de todo el equipo para resolverlas.
+● Nuestra colaboración para poder hacer cambios en el repositorio del proyecto sin incurrir en conflictos de código, con la utilización de múltiples herramientas y canales de comunicación para un correcto desarrollo en equipo.
+● Continuar con la dinámica del equipo, ya que se tuvo una buena sinergia y organización, con la utilización de herramientas como When2Meet para organizar reuniones específicas, reuniones semanales con el ayudante y la buena comunicación mediante canales como WhatsApp o Discord, para ir comentando cambios, avances o inquietudes que vayan generándose durante el sprint.

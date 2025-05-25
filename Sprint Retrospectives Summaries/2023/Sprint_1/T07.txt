@@ -1,0 +1,24 @@
+¿Qué salió bien?
+● Fuimos seleccionados en Semillero, donde hicimos las cotizaciones correspondientes para la adquisición de Oculus, los cuales vienen en camino.
+● Pedimos prestado un Oculus a un compañero de Feria pasado, lo cual nos ayudó mucho para el desarrollo en la semana del Sprint, puesto que pudimos desarrollar a cualquier hora y no nos vimos limitados por la cantidad de Oculus disponibles en primos.
+● Se aumentó la confianza entre los integrantes del equipo, gracias a las juntas para trabajar como para compartir.
+● Nos juntamos constantemente y la comunicación mejoró, estábamos actualizados en las tareas que cada uno realizaba y las juntas de equipo aumentaron para desarrollar y probar en conjunto.
+● El equipo creció en habilidades, puesto que a medida que desarrollamos nuevas historias de usuario, vamos aprendiendo nuevas habilidades que nos sirven para el sprint en curso y para los próximos.
+● Encontramos una forma de trabajar con Unity y Git para compartir código
+● Las dailys fueron constantes, esta vez mantuvimos el horario y se realizaron todos los días como se esperaba.
+● Se conversaron temas de equipo que nos preocupaban, especialmente debido a que uno de los integrantes está realizando su práctica, por lo que su tiempo se ve limitado. Se llegó a un acuerdo y se ayudó a organizar los tiempos de mejor manera.
+● Motivación del equipo, todos los integrantes están motivados con el proyecto que estamos realizando, lo cual se ha notado en la calidad del trabajo que hemos realizado.
+● El compromiso del equipo, especialmente para el sprint 1 donde la asistencia de los integrantes fue importante
+
+¿Qué salió mal?	
+● Distribución de tiempo del equipo y de los integrantes, puesto que a pesar de que comenzamos el desarrollo prontamente, nos demoramos más de lo previsto en algunos criterios, y por consecuencia, nos faltó tiempo para el desarrollo de unos últimos criterios de aceptación.
+● Estimación de tiempo en las historias, relacionado con el anterior, algunos criterios e historias nos demoraron más de lo que pensábamos, especialmente debido a la linealidad de la historia del juego junto a los diálogos.
+● Integración de historias/criterios, a pesar de que esta vez comenzamos a integrar antes, igualmente nos faltó tiempo para la integración final.
+● Git funcionó bien hasta que tuvimos un error de último momento al hacer git pull. Esto debido a que era necesario que todos fuésemos ordenados y precisos al subir nuestros archivos, lo cual nos quitó tiempo de integración.
+● No actualizar constantemente al cliente de los avances y de cómo funcionaba la realidad virtual. En esta iteración, nuevamente nos faltó más contacto con el cliente, para mostrarle nuestros avances. Se debe mejorar esto.
+
+¿Que se debería mantener?
+● Mantener la motivación y buena química entre el equipo.
+● La organización entre grupos para el uso del Oculus en caso de necesitarlo, dado que el número de equipos es mayor que la cantidad de sets Oculus presentes y se siguió el procedimiento correcto de préstamo.
+● El uso de Trello, ya que es una muy buena herramienta para organizar las tareas de desarrollo y criterios de aceptación de los sprints.
+● Juntas en casa de uno de los integrantes para avanzar, para este sprint se aumentó las juntas en casa para el desarrollo puesto que han dado buenos resultados en avances

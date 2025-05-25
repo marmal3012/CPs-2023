@@ -1,0 +1,19 @@
+¿Qué salió bien?
+● Utilización de Trello para las asignaciones de tareas, se logró una distribución equitativa del trabajo a través de tareas.
+● Utilización de GitHub y ramas por persona, para lograr trabajar de manera independiente y lograr una integración de código más fácil con el resto del equipo.
+● Se realizaron todas las tareas, a pesar de estar contra el tiempo, se logró realizar todo lo relacionado a este sprint.
+● Se trabajó con horarios más definidos a comparación del primer Sprint, lo que benefició el tiempo de cada uno.
+
+¿Qué salió mal?
+● Se subestimó el tiempo en las historias de usuario.
+● Se decían los avances en dailys pero no se mostraban visualmente, por lo que había desconección en ciertas áreas.
+● Mala gestión de tareas ya que la carga no se dividió de manera homogénea.
+● La revisión de los avances no se hizo a detalle, por lo que pueden existir problemas con casos bordes.
+● Muchas tareas se comenzaron a hacer tarde, por lo que la integración fue muy apresurada.
+● Personas no estuvieron presentes en varias reuniones daily, por lo que su avance no se pudo integrar inmediatamente.
+● Los pendientes del sprint 1 tomaron demasiado tiempo en realizarse, lo que consumió más tiempo y esfuerzo del necesario
+
+¿Que se debería mantener?
+● Mantener la constancia con las Daily, puesto que gracias a ello se sabe que es lo que está listo, en que se está trabajando o que falta o se necesita ayuda.
+● Mantener trabajo colaborativo entre los miembros del equipo, ya que, el trabajar en conjunto a otros (no necesariamente en la misma tarea), ayuda y motiva a los mismo integrantes.
+● Seguir subdividiend● Historias de Usuarios en distintas tareas para hacer menos pesado el trabajo y así distintos integrantes pueden construir una historia pesada de manera más simple.

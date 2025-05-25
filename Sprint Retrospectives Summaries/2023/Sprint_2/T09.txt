@@ -1,0 +1,12 @@
+¿Qué salió bien?
+● Pudimos mantener una modalidad de trabajo presencial/colaborativo, la cual sirve para alinear al equipo, ayudándonos mutuamente apenas lo necesitábamos, logrando mejores avances en general.
+● Los dailys fueron de mucha ayuda para poder saber en que estaba trabajando el otro y poder apoyarnos en ciertos temas cuando esto fuera necesario.
+● Se mantuvo el flujo de GitHub, trabajando adecuadamente con las branch para cada funcionalidad e integrando constantemente.
+● En general quedamos con buenas sensaciones para el siguiente sprint, identificando bien lo que se hizo mal, lo que se hizo bien y como mejorar.
+
+¿Qué salió mal?	
+● No se priorizaron correctamente ciertas tareas, dejando poco tiempo de sobra para juntar las partes
+
+¿Que se debería mantener?
+● División del trabajo acorde a las habilidades de cada uno de los miembros del equipo.
+● Mantener la modalidad de dailys y juntas de trabajo colaborativo desde el principio del sprint.

@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Se organizó de tal forma que todo estuvo preparado con al menos un día de antelación.
+● Presentar el sprint en FabLab fue un gran beneficio.
+● No fallaron elementos de sprints pasados.
+
+¿Qué salió mal?
+● Existieron componentes que no funcionaron de la forma predecida, lo cual nos hizo perder recursos económicos y de tiempo.
+● Faltó comunicarse con ayudante de diseño para mejorar UI/UX.
+
+¿Qué se debe mantener?
+● El uso del espacio de trabajo e implementos del Fablab.
+● Uso de discord para constante comunicación y orden de las secciones de desarrollo y demás elementos asociados al proyecto.
+● Mantener el uso de repositorio en GitHub y las branch de desarrollo.

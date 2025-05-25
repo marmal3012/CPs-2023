@@ -1,0 +1,24 @@
+¿Qué salió bien?
+● Se aumentó la confianza entre los integrantes del equipo, gracias a las juntas para trabajar como para compartir.
+● El equipo creció en habilidades, donde todos éramos novatos en el desarrollo usando Unity, y más aún con realidad virtual.
+● El compromiso del equipo, especialmente para el PMV donde la asistencia de los integrantes fue importante.
+● Aprendimos a distribuir mejor las tareas y unir, puesto que en un principio costó trabajar debido a la dificultad de compartir código y escenas en Unity.
+● Se logró buenos resultados con las historias de usuarios realizadas, donde cada uno se encargó de tareas importantes que logramos desarrollar.
+● Motivación del equipo, se logró continuar con el desarrollo y motivación a pesar de haber perdido un integrante. Como también, la participación del equipo en Semillero USM.
+
+¿Qué salió mal?	
+● Empezar tarde con el desarrollo de PMV en conjunto, principalmente debido a complicaciones con otras asignaturas.
+● Distribución de tiempo en las tareas puesto que no conocíamos mucho sobre el desarrollo en Unity en 3D y cuánto nos iba a demorar.
+● La integración de las tareas, debido a que no nos resultó realizar merges en Git y tampoco el funcionamiento de Plastic SCM (Tipo git de Unity) lo cual se debe volver a revisar. Esta falta de integración tomó mucho tiempo luego al unir las historias de usuario realizadas, incluso llegando a no alcanzar a integrar historias que ya estaban hechas.
+● Faltar a clases, integrantes han faltado a varias clases por razones variadas, sin embargo, es necesario asistir debido a entregas que se realizan en clases y conceptos importantes que se enseñan.
+● Falta de constancia y orden con las reuniones Scrum, hubo pocas ocasiones en las que al equipo completo se nos olvidaba las reuniones diarias y otras duraban más de lo esperado.
+● No actualizar o revisar el Trello constantemente, puesto que si bien la información y tareas a realizar se guardaban en Trello, nos servía en un principio y luego no actualizamos las tareas completadas o pendientes.
+● No actualizar constantemente al cliente de los avances y de cómo funcionaba la realidad virtual, algo de lo que nos dimos cuenta hace poco fue que debimos guiar más en cómo funcionaba la realidad virtual al cliente puesto que no es del área de Informática.
+
+¿Que se debería mantener?
+● Mantener la motivación y buena química entre el equipo.
+● La organización entre grupos para el uso del Oculus, dado que el número de equipos es mayor que la cantidad de sets Oculus presentes y se siguió el procedimiento correcto de préstamo.
+● El uso de Trello, ya que es una muy buena herramienta para organizar tanto las tareas de desarrollo como las de comunicación y de participación en el Semillero. Otra idea para el uso de Trello es organizar estas tareas en una pizarra física.
+● Pedir varias veces el Oculus, donde se asistió a la Universidad a pedir el Oculus para poder testear correctamente y realizar las configuraciones de forma anticipada.
+● Juntas en casa de uno de los integrantes para avanzar, uno de los días en los que más se consiguió avanzar fue al juntarse en casa de Pedro antes del PMV, hubo un buen ambiente donde se pudo trabajar y compartir.
+● Varias juntas para avanzar en la historia del proyecto, por ejemplo para la entrega de HDU nos juntamos varias veces a revisar qué haríamos exactamente en cada relato de cada droga, lo que hizo que la entrega final de historias saliera más rápido.

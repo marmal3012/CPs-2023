@@ -1,0 +1,11 @@
+¿Qué salió bien?
+● La coordinación y la comunicación durante este sprint se mantuvo en comparación al anterior, lo cual nos permitió tener a múltiples desarrolladores trabajando en una escena sin tener mayores conflictos de código.
+● Buena cooperación y modularización de las Historias de usuario, ya que al tener menos cada quien pudo trabajar en una de forma concreta de principio a fin.
+
+¿Qué salió mal?
+● Durante este sprint disminuyó en gran cantidad la proactividad del grupo, esto provocó que tuviéramos que desvelarnos la noche previo a la presentación para finalizar todas las HUs.
+● Debido a los problemas al distribuir los tiempos de las HUs, no tuvimos tiempo de preparar la presentación, lo que significó que tuvimos que presentar dos veces.
+● Debido a que finalizamos las HUs el día antes de la presentación, no tuvimos tiempo para testear todas las HUs. Lo que provocó que una de estas no funcionara durante la presentación.
+
+¿Que se debería mantener?
+● Se debe mantener el compromiso con el proyecto que tiene cada miembro del equipo, con el objetivo de realizar una buena presentación durante la feria de software, manteniendo de la gran calidad que ha marcado nuestro grupo y proyecto durante los sprints.

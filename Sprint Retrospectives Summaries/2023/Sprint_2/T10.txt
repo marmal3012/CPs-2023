@@ -1,0 +1,21 @@
+¿Qué salió bien?
+● Resultó bien la organización, ya que establecimos una lista detallada de las actividades a realizar para cada historia de usuario junto con sus criterios de aceptación, la cual se registró en una hoja de excel. En esta, cada miembro tenía una tarea asignada con un tiempo óptimo de realización para ojala no pasarse de este.
+● Las reuniones diarias nos mantuvieron informados del proceso y en qué tarea iba cada uno, obteniendo así un flujo de información fluido para no toparnos y no crear un problema que nos costará más tiempo en una historia.
+● Hubo buena comunicación durante todo el sprint. Lo cual promovió el compromiso y el compañerismo. Hubo muy buena sinergia, confianza y apoyo para contar cuando un integrante tenía problemas para desarrollar sus tareas.
+● La dirección de la Scrum Master permitió un avance fluido a lo largo de todo el sprint.
+● Se usaron muy bien las vías de comunicación del equipo, com● Discord, comunidad de Whatsapp, Trello, Reuniones con tiempo acotados, repositori● Git, etc. Mejor incluso que en el Sprint anterior.
+● Hubo trabajo colaborativo cada vez que se necesitaba y todo estábamos con una disposición y super atentos ante cualquier problema que se presentará
+● Delegación de tareas a una persona sin mucho conocimiento en unity, ya que si bien esta persona no se movía mucho en esta área, pudo sacar adelante un juego bastante complicado de realizar. Si bien se alargó más de lo normal, puede completar con éxito el juego (sabíamos que se iba a demorar mas de lo normal por lo que lo consideramos dentro de las tareas del excel)
+
+¿Qué salió mal?
+● Hubo desorganización en cuanto a coordinación de trabajo para asegurar una integración gradual.
+● Hubo tareas en que se destinó un sólo integrante a realizar sin backup, y cuando ese integrante no daba a basto no tenía reemplazo.
+● No se logró cumplir todos los criterios de aceptación, ya que hubo algunas tareas que nos demoraron un poco más del tiempo considerado lo cual nos retrasó levemente con solo un criterio de aceptación (HU-19 no se terminó).
+
+¿Que se debería mantener?
+● La buena organización y la disposición a apoyarnos cuando las cosas se dificultan, independiente de que sean nuestras tareas asignadas o no.
+● La distribución en excel de tareas con los tiempos de dedicación en horas por HU.
+● El compromiso y compañerismo. La buena sinergia, confianza y apoyo para contar cuando un integrante tenga problemas para desarrollar sus tareas.
+● La comunicación, la atención y la buena disposición de apoyar a los demás
+● Seguir usando nuestras vías de comunicación de manera organizada y ordenada, para encontrar rápidamente la información.
+● El buen uso de Trello que existió en este sprint.

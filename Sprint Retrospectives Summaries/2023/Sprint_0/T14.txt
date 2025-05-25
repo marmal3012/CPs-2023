@@ -1,0 +1,13 @@
+¿Qué salió bien?
+● Existió una constante comunicación entre todos los integrantes del equipo. En general, la mayoría de los integrantes estuvo presente durante las daily, y dada la separación entre hardware y software, se pudo manejar mejor la comunicación entre estos dos equipos.
+● Apenas algún integrante terminaba con una parte de su trabajo, este avisaba y proporcionaba el código correspondiente para que los demás integrantes pudieran revisarlo y/o testearlo. Esto a través de github o bien enviando cambios cortos a través de los canales definidos para comunicación, los cuales fueron seccionados correctamente para este propósito.
+
+¿Qué salió mal?
+● Subestimar el tiempo requerido para las historias de usuario, en particular, el tiempo requerido para confeccionar las cajas de hardware y posteriormente poder testear todos los sistemas en conjunto.
+● Deberíamos haber mantenido un ritmo de trabajo más constante desde el comienzo, para no estar colapsados durante las últimas semanas, llevando a reuniones en días consecutivos para terminar la confección de las cajas.
+● Debimos haber probado el sistema en conjunto a mayor profundidad y en distintas condiciones, dados los problemas de planificación, no pudimos probar el flujo completo del sistema ni planear adecuadamente la presentación para el PMV.
+● No se realizaron los avisos de término de requisitos de forma correcta, estos no están formalmente documentados y ordenados para revisar nuestro progreso.
+
+¿Qué se debe mantener?
+● Separación entre los trabajos, principalmente, mecanismo y software, el poder trabajar más modularmente permite un avance paralelo de cada sección, por lo que ninguno depende fuertemente del avance de otros.
+● Tener los códigos respaldados en github correspondiente, realizando una correcta separación entre backend, frontend y sistemas raspberry Pi.

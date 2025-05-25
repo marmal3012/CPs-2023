@@ -1,0 +1,15 @@
+¿Qué salió bien?
+● Se lograron los objetivos planteados en las historias sin exceder de manera significativa el tiempo que se calculó inicialmente que tomarían.
+● Se disminuyó significativamente la diferencia entre cantidad de horas dedicadas por cada uno de los miembros del equipo, sin que ninguno estuviera debajo del mínimo esperado.
+● Se distribuyó de mejor manera el tiempo dedicado a la revisión de pull requests - ya no recayó esto sobre uno o dos miembros principalmente, como ocurrió con anterioridad.
+● Se planificó la presentación y el orden de las historias con tiempo, para darle tiempo a los potenciales presentadores de ensayar.
+● Se usó de mejor manera github, al asociar cada pull request a issues específicos, facilitando la detección de qué tareas ya estaban terminadas y cuáles no.
+
+¿Qué salió mal?
+● Hubo algunos conflictos en github que hicieron que se perdiera tiempo, por ejemplo, en averiguar cómo hacer “reverts” de forma correcta, o cómo recuperar código que se borró por error.
+● El testing sobre la base de datos nuevamente comenzó tarde, lo que hizo que muchos problemas aparecieran durante la misma semana de la entrega.
+
+¿Que se debería mantener?
+● Buena disposición y actitud a la hora de trabajar - todos cumplieron con lo que acordaron, y cuando alguno tenía dificultades, otros lo apoyaron y ayudaron a sacar adelante los objetivos.
+● Mejor eficacia en lograr los objetivos dentro del tiempo calculado - no se requirió duplicar el tiempo comprometido, como ocurrió en entregas anteriores.
+● Dedicación más equitativa - no hubo tanta variación en la cantidad de horas que cada uno tuvo que dedicarle al sprint.

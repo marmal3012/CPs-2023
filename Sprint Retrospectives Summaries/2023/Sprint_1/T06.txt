@@ -1,0 +1,15 @@
+¿Qué salió bien?
+● Hubo empatía y ambiente agradable, como equipo realizamos sesiones de descanso grupal haciendo más ameno el ambiente y resolviendo conflictos internos por medio de videojuegos. Crear un ambiente de trabajo agradable y lúdico es crucial para mantener un equipo movado y compromedo.
+● Distribución de tareas acorde a lo que se da mejor a cada integrante, Gracias al análisis de cada integrante realizado luego del PMV logramos conocer bien nuestras fortalezas y debilidades, gracias a esto pudimos asignar tareas y distribuir el trabajo de forma que cada integrante manejase lo que más le acomodaba, generando un buen ambiente de trabajo.
+● Logramos generar un buen flujo de trabajo. Si bien en etapas tempranas del sprint tuvimos problemas de versionado y manejo de cambios, llegamos a un punto en el que todos estaban progresando en alguna caracterísca simultáneamente. La gesón efecva del control de versiones es crucial en el desarrollo de soware, especialmente en un entorno de equipo.
+● Hubo un correcto uso del backlog, a diferencia del sprint anterior, en el que las tareas se fueron asignando a medida que se necesitaban, en este sprint logramos corregir ese error al separar las historias de usuario a cada integrante, permiendo un progreso constante y eficiente del proyecto
+
+¿Qué salió mal?	
+● Mal uso del repositorio, muchas ramas eran redundantes y poco explícitas sobre qué se trabajaba en ellas. Un buen punto a seguir podría ser la adopción de una convención de nombres para las ramas que refleje el trabajo que se realiza en ellas, debido a que el control de versiones y la gesón de ramas son esenciales.
+● Mal uso de commits, cambios muy grandes en commits poco descripvos. Grandes commits pueden hacer dicil la revisión del código y la idenficación de dónde se introdujeron los bugs.
+● Mala comunicación, durante este sprint acordamos correctamente cuáles serían las historias de usuario en las que trabajaría cada uno, pero debido a que cada uno estaba muy inmerso en su respecva tarea, se llegaron a hacer pequeños cambios de los que los demás no estaban al tanto y que generaban confusiones en cadena.
+
+¿Que se debería mantener?
+● Mantener la correcta distribución de tareas: No en un sendo de orden sino seleccionando la persona indicada para cada trabajo según sus competencias.
+● Mantener la honesdad y aceptación del feedback por parte del grupo para con las tareas realizadas.
+● Mantener el ambiente de colaboración y apoyo entre compañeros: Que cada miembro del equipo se encuentre dispuesto a ayudar a los demás si se presenta una duda sobre algo que esté conoce.

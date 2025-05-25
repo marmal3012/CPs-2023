@@ -1,0 +1,23 @@
+¿Qué salió bien?
+● Llegaron los Oculus comprados gracias a Semillero, los cuales han sido de gran ayuda para que cada uno pueda avanzar de forma paralela a los demás miembros del equipo y testear con anticipación ciertas funcionalidades.
+● Pedimos prestado un Oculus a un compañero de Feria pasado, lo cual nos ayudó mucho para el desarrollo en la semana del Sprint, puesto que pudimos desarrollar a cualquier hora y no nos vimos limitados por la cantidad de Oculus disponibles en primos.
+● Se creó un excel de planificacion de tareas, debido a que el Trello nos confundida visualmente, decidimos crear un Excel con planificación de las tareas necesarias para cada historia (dividiendo los criterios en tareas más pequeñas) donde ibamos actualizando su estado (en proceso o lista) junto a cada encargado. Esto fue más cómodo visualmente y nos ayudó a organizarnos y estar actualizados..
+● Nos dividimos las historias en subequipos, esta vez separamos las historias en subequipos para poder trabajar de forma localizada en ciertas historias y disminuir el tiempo de integración.
+● Nos juntamos constantemente y la comunicación mejoró, estábamos actualizados en las tareas que cada uno realizaba y las juntas de equipo aumentaron para desarrollar y probar en conjunto.
+● El equipo creció en habilidades, puesto que a medida que desarrollamos nuevas historias de usuario, vamos aprendiendo nuevas habilidades que nos sirven para el sprint en curso y para los próximos.
+● Encontramos una nueva forma de trabajar con Unity y Git para compartir código, utilizando branches para traspasar archivos y escenas, lo cual mejoró mucho el tiempo de integración.
+● Motivación del equipo, todos los integrantes están motivados con el proyecto que estamos realizando, lo cual se ha notado en la calidad del trabajo que hemos realizado.
+● El compromiso del equipo, la asistencia de los integrantes fue constante.
+● Se aumentó la confianza entre los integrantes del equipo, gracias a las juntas para trabajar como para compartir.
+
+¿Qué salió mal?
+● No actualizar constantemente al cliente de los avances y de cómo funcionaba la realidad virtual. En esta iteración, nuevamente nos faltó más contacto con el cliente, para mostrarle nuestros avances. Se debe mejorar esto.
+● Estancarnos en algún criterio/funcionalidad, hubo varias ocasiones en este sprint en donde nos quedamos estancados en algún error que no nos permitía cumplir el criterio como queríamos.
+● El momento de la integración, si bien hubo integración de avances en una misma historia, la integración de historias/escenas distintas se realizó a último momento.
+● Bugs y dificultad, en este sprint encontramos varios bugs y algunas funcionalidades que podrían afectar la experiencia de usuario debido a la dificultad.
+
+¿Que se debería mantener?
+● Mantener la motivación y buena química entre el equipo.
+● Juntas en casa de uno de los integrantes para avanzar, para este sprint se aumentó las juntas en casa para el desarrollo puesto que han dado buenos resultados en avances.
+● Uso del Excel de planificación, debido a que fue más cómodo para todos.
+● División de historias en subequipos, puesto que hasta ahora este ha sido el método que nos ha brindado mejores resultados.

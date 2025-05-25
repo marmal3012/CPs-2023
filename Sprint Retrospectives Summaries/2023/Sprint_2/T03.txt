@@ -1,0 +1,19 @@
+¿Qué salió bien?
+● Se mejoró la integración respecto al sprint anterior, esto permitió que a medida que se fueran logrando criterios de aceptación se pudiesen ir testeando en la rama de desarrollo.
+● Se organizó correctamente la logística para viajar y realizar tomas de lugares, esto permitió conseguir material valioso que se usó para generar los modelos 3D.
+● Se logró crear el sistema de preprocesamiento de imágenes para la posterior generación de modelos, esto es un avance tremendo para nuestro proyecto ya que nos permite crear nuevos entornos a partir de imágenes en vez de tener que esculpirlos a mano.
+● Cumplimos con hacer Dailys durante toda la duración del sprint, lo que nos ayudó para saber en que estaba cada uno de los integrantes del equipo para así ayudar a quienes lo necesitaran y tener claro los criterios de aceptación que estaban faltando por completar.
+● Hubo proactividad por parte de los integrantes para conseguir los recursos necesarios para el desarrollo del proyecto, tales como las gafas VR. Esto permitió que el desarrollo no tuviera mayores contratiempos y se pudiera probar de inmediato los proyectos de Realidad Virtual.
+● Se logró desarrollar la parte funcional de todas las historias de usuarios.
+
+¿Qué salió mal?
+● Un solo integrante del grupo usó el Jira, por lo que no había seguimiento del avance de las historias de usuario, y solo se tenía registro del avance durante las reuniones diarias.
+● Falta de coordinación para la rotación de la utilización del VR dentro del equipo.
+● Faltó realizar mayor testing de las interfaces de usuario para comprobar que sean fáciles de usar.
+● No hubo tiempo para mejorar estéticamente los modelos implementados en Unity.
+● Faltó más comunicación respecto a algunos métodos ya implementados en Unity.
+
+¿Que se debería mantener?
+● Se deberían mantener las constantes reuniones y la responsabilidad de cumplir con los objetivos comprometidos.
+● Conservar la motivación, ya que gracias a eso se alcanzaron varias metas y se ha logrado trabajar en conjunto de manera eficiente.
+● Mantener un ambiente de trabajo amigable, ya que mejora la comunicación, reduce el estrés y facilita la resolución de problemas.

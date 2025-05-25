@@ -1,0 +1,24 @@
+¿Qué salió bien?
+● La realización de reuniones diarias, aun durante la semana libre de la universidad, permitiendo (como en el sprint anterior) que pudiéramos recibir y entregar feedback a nuestros compañeros durante el desarrollo.
+● Hubo una buena separación de tareas, permitiendo que incluso en casos donde parecía que la tarea de una persona dependía de que otro terminara la suya, se pudiera avanzar de todas formas.
+● Se reutilizaron varios sistemas que fueron desarrollados en sprints anteriores o más temprano en el sprint actual, lo que permitió reducir los tiempos se desarrollo, por ejemplo, la programación de tareas con cron y el envío de correos.
+● Se habló temprano en el sprint con potenciales usuarios y clientes, lo que nos permitió tener una mejor visión sobre cómo las cosas se deben ver y cómo deben funcionar tanto para este sprint como para el desarrollo futuro.
+● A diferencia de sprints anteriores, esta vez se planificó la presentación con tiempo, por lo que se pudo ensayar y preparar de mejor manera.
+● Se pudo establecer un segundo servidor de hosting, lo que permitió mayor flexibilidad y rapidez a la hora de realizar pruebas, además de tener un respaldo en caso de que el servidor principal fallara.
+● Se utilizó de mejor manera Github, lo que minimizó conflictos entre ramas (prácticamente no se dieron conflictos al hacer merge), lo que en el sprint anterior hizo perder bastante tiempo
+
+¿Qué salió mal?
+● Algunas tareas se comenzaron a desarrollar tarde o de plano no se pudieron desarrollar, puesto que algunos miembros del equipo tenían muchos trabajos que entregar para otras asignaturas.
+● Se hizo testing con la base de datos desde 0 muy tarde en el sprint, lo que nos llevó a resolverlos bastante cerca del sprint review, lo cual nos quitó tiempo de planificación de la presentación.
+● Nuevamente se dieron asimetrías bastante grandes en las horas de dedicación entre los compañeros, lo que fue provocado en parte porque algunos no pudieron estar desde el inicio del sprint.
+● No distribuir más equitativamente la tarea de revisar pull requests de otros compañeros; Harold revisó la mayoría de las pull requests, lo que le quitó tiempo que podría haber dedicado a desarrollo.
+● Algunas tareas, aunque eran funcionales, no eran lo suficientemente claras de usar para un usuario que no estuviera experimentado previamente en el uso de la aplicación, cosa que se debe arreglar para el próximo sprint.
+● No pedir al ayudante una revisión previa que nos permitiera ver errores de manera más temprana.
+● En varias ocasiones algunos desarrollos no se realizaron leyendo todos los criterios de aceptación, lo que llevó a marcar como listas ciertas historias que no lo estaban.
+
+¿Que se debería mantener?
+● Reuniones diarias que permiten saber en qué está cada uno y además permite que los miembros interactúen entre sí comentando sus soluciones, entregando retroalimentación y formas de hacer mejor las cosas o avisando que ya existe código que realiza una tarea muy similar.
+● En general la comunicación entre compañeros para solicitar ayuda, probar algunas funciones y hacer que el proyecto avance de forma segura.
+● La efectiva utilización de Github, al asegurarse de tener la rama de desarrollo al día, realizar pull requests frecuentes para las nuevas características y abrir issues asociadas a pull requests al encontrar problemas.
+● Tener un servidor de respaldo en caso de que ocurran problemas desplegados en docker para mantener un comportamiento uniforme entre instancias.
+● Mantener los memes y agregar más en el futuro

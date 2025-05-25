@@ -1,0 +1,15 @@
+¿Qué salió bien?
+● Debido a la experiencia del equipo con Git no hubo mayores problemas al momento de integrar las distintas ramas de trabajo.
+● Hubo una mejor estimación de los tiempos y las historias de usuario se cerraron en los tiempos adecuados.
+● Cumplimos con hacer Dailys durante toda la duración del sprint, lo que nos ayudó para saber en que estaba cada uno de los integrantes del equipo para así ayudar a quienes lo necesitaran y tener claro los criterios de aceptación que estaban faltando por completar.
+
+¿Qué salió mal?
+● Faltó más comunicación respecto a algunos métodos ya implementados en Unity.
+● Hubo historias de usuario que se enfocaron demasiado en lo funcional dejando de lado la parte visual.
+● No todos usaron el Jira, por lo que no había seguimiento del avance de las historias de usuario, y
+● solo se tenía registro del avance durante las reuniones diarias.
+● A pesar de saber el avance de cada uno, solo en la recta final se presentó el avance (de manera visual) de cada integrante.
+
+¿Que se debería mantener?
+● Se deberían mantener las constantes reuniones y la responsabilidad de cumplir con los objetivos comprometidos.
+● Conservar la motivación, ya que gracias a eso se alcanzaron varias metas y se ha logrado trabajar en conjunto de manera eficiente.
